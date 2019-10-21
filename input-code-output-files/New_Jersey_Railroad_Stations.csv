@@ -1,0 +1,158 @@
+﻿COUNTY,LATITUDE,LONGITUDE,STATION,RAIL_LINE,MUN_LABEL
+"PHILADELPHIA, PA",39.95655351,-75.18142027,30th Street Station,Atlantic City Line,"Philadelphia, PA"
+CAMDEN,39.92844978,-75.04165867,Cherry Hill,Atlantic City Line,Cherry Hill Township
+CAMDEN,39.8337586,-75.00023659,Lindenwold,Atlantic City Line,Lindenwold Borough
+CAMDEN,39.78362152,-74.90770641,Atco,Atlantic City Line,Waterford Township
+ATLANTIC,39.63167271,-74.79949633,Hammonton,Atlantic City Line,Hammonton Town
+ATLANTIC,39.52654651,-74.64815394,Egg Harbor City,Atlantic City Line,Egg Harbor City
+ATLANTIC,39.42432412,-74.50209036,Absecon,Atlantic City Line,Absecon City
+ATLANTIC,39.363304,-74.441476,Atlantic City,Atlantic City Line,Atlantic City
+CAMDEN,39.97777011,-75.06179235,Pennsauken Transit Center,Atlantic City Line,Pennsauken Township
+SOMERSET,40.72005743,-74.66607101,Gladstone,Gladstone Branch/M&E,Peapack-Gladstone Borough
+SOMERSET,40.70877969,-74.65846127,Peapack,Gladstone Branch/M&E,Peapack-Gladstone Borough
+SOMERSET,40.68571567,-74.63378539,Far Hills,Gladstone Branch/M&E,Far Hills Borough
+SOMERSET,40.71683871,-74.57103435,Bernardsville,Gladstone Branch/M&E,Bernardsville Borough
+SOMERSET,40.71140512,-74.55527216,Basking Ridge,Gladstone Branch/M&E,Bernards Township
+SOMERSET,40.6848776,-74.54949888,Lyons,Gladstone Branch/M&E,Bernards Township
+MORRIS,40.67352404,-74.52359514,Millington,Gladstone Branch/M&E,Long Hill Township
+MORRIS,40.67457671,-74.49377807,Stirling,Gladstone Branch/M&E,Long Hill Township
+MORRIS,40.67826035,-74.46829152,Gillette,Gladstone Branch/M&E,Long Hill Township
+UNION,40.69502812,-74.4032205,Murray Hill,Gladstone Branch/M&E,New Providence Borough
+UNION,40.6823333,-74.44267059,Berkeley Heights,Gladstone Branch/M&E,Berkeley Heights Township
+UNION,40.71211414,-74.38644432,New Providence,Gladstone Branch/M&E,New Providence Borough
+"ROCKLAND, NY",41.11353988,-74.15343762,Suffern,Main/Bergen Line,"Ramapo Town, NY"
+BERGEN,41.09437519,-74.14660862,Mahwah,Main/Bergen Line,Mahwah Township
+BERGEN,41.05690562,-74.14205018,Ramsey,Main/Bergen Line,Ramsey Borough
+BERGEN,41.03093673,-74.13098525,Allendale,Main/Bergen Line,Allendale Borough
+BERGEN,41.01279661,-74.12341964,Waldwick,Main/Bergen Line,Waldwick Borough
+BERGEN,40.99736775,-74.11352201,Ho-Ho-Kus,Main/Bergen Line,Ho-Ho-Kus Borough
+BERGEN,40.98067221,-74.12056784,Ridgewood,Main/Bergen Line,Ridgewood Village
+BERGEN,40.96224513,-74.13344979,Glen Rock-Main,Main/Bergen Line,Glen Rock Borough
+PASSAIC,40.94253722,-74.15241425,Hawthorne,Main/Bergen Line,Hawthorne Borough
+PASSAIC,40.91492573,-74.16732458,Paterson,Main/Bergen Line,Paterson City
+PASSAIC,40.86798806,-74.15317285,Clifton,Main/Bergen Line,Clifton City
+PASSAIC,40.84943323,-74.13393294,Passaic,Main/Bergen Line,Passaic City
+PASSAIC,40.83136648,-74.13125718,Delawanna,Main/Bergen Line,Clifton City
+BERGEN,40.81647081,-74.12423752,Lyndhurst,Main/Bergen Line,Lyndhurst Township
+BERGEN,40.96133088,-74.12929161,Glen Rock-Boro Hall,Main/Bergen Line,Glen Rock Borough
+BERGEN,40.93991977,-74.12160633,Radburn,Main/Bergen Line,Fair Lawn Borough
+BERGEN,40.92251054,-74.11523143,Broadway,Main/Bergen Line,Fair Lawn Borough
+BERGEN,40.88493927,-74.10268496,Plauderville,Main/Bergen Line,Garfield City
+BERGEN,40.86666974,-74.10555971,Garfield,Main/Bergen Line,Garfield City
+BERGEN,40.82829802,-74.10057919,Rutherford,Main/Bergen Line,Rutherford Borough
+BERGEN,40.81009483,-74.11729322,Kingsland,Main/Bergen Line,Lyndhurst Township
+BERGEN,41.07505105,-74.14548507,Rte 17 Ramsey,Main/Bergen Line,Ramsey Borough
+Bergen,40.85497522,-74.09695192,Wesmont,Main/Bergen Line,Wallington Borough
+BERGEN,40.81302087,-74.07204981,Meadowlands Rail Station,Meadowlands Rail Line,East Rutherford Borough
+MORRIS,40.90738433,-74.73064544,Mount Olive,Montclair-Boonton Line/M&E,Mount Olive Township
+WARREN,40.85202342,-74.83478946,Hackettstown,Montclair-Boonton Line/M&E,Hackettstown Town
+MORRIS,40.89756056,-74.70726247,Netcong,Montclair-Boonton Line/M&E,Netcong Borough
+MORRIS,40.90433376,-74.66572843,Lake Hopatcong,Montclair-Boonton Line/M&E,Roxbury Township
+MORRIS,40.8834228,-74.55580534,Dover,Montclair-Boonton Line/M&E,Dover Town
+MORRIS,40.8838958,-74.48151076,Denville,Montclair-Boonton Line/M&E,Denville Township
+MORRIS,40.88596498,-74.43357817,Mountain Lakes,Montclair-Boonton Line/M&E,Mountain Lakes Borough
+MORRIS,40.90338377,-74.40773043,Boonton,Montclair-Boonton Line/M&E,Boonton Town
+MORRIS,40.92284961,-74.34377146,Towaco,Montclair-Boonton Line/M&E,Montville Township
+MORRIS,40.92414437,-74.30182463,Lincoln Park,Montclair-Boonton Line/M&E,Lincoln Park Borough
+PASSAIC,40.91397815,-74.26780523,Mountain View-Wayne,Montclair-Boonton Line/M&E,Wayne Township
+PASSAIC,40.88067433,-74.23537061,Little Falls,Montclair-Boonton Line/M&E,Little Falls Township
+ESSEX,40.85754114,-74.2024892,Montclair Heights,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.84872386,-74.2053036,Mountain Avenue,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.84201604,-74.20935873,Upper Montclair,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.82952022,-74.20693084,Watchung Avenue,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.81724421,-74.20962288,Walnut Street,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.80817856,-74.20867847,Bay Street-Montclair,Montclair-Boonton Line/M&E,Montclair Township
+ESSEX,40.80059181,-74.20464546,Glen Ridge,Montclair-Boonton Line/M&E,Glen Ridge Borough
+ESSEX,40.79270828,-74.20006477,Bloomfield,Montclair-Boonton Line/M&E,Bloomfield Township
+ESSEX,40.78271231,-74.19844326,Watsessing,Montclair-Boonton Line/M&E,Bloomfield Township
+ESSEX,40.86978387,-74.19743445,Montclair St Univ,Montclair-Boonton Line/M&E,Little Falls Township
+PASSAIC,40.90026454,-74.25697425,Wayne Route 23 Transit Center,Montclair-Boonton Line/M&E,Wayne Township
+MORRIS,40.89658975,-74.63273189,Mt Arlington,Montclair-Boonton Line/M&E,Mount Arlington Borough
+UNION,40.71653761,-74.35774978,Summit,Morristown Line/M&E,Summit City
+ESSEX,40.72526434,-74.32379711,Short Hills,Morristown Line/M&E,Millburn Township
+ESSEX,40.72563482,-74.30381063,Millburn,Morristown Line/M&E,Millburn Township
+ESSEX,40.73116,-74.275404,Maplewood,Morristown Line/M&E,Maplewood Township
+ESSEX,40.7458998,-74.26058094,South Orange,Morristown Line/M&E,South Orange Village Township
+ESSEX,40.755417,-74.25298514,Mountain Station,Morristown Line/M&E,South Orange Village Township
+ESSEX,40.76688315,-74.2437236,Highland Avenue,Morristown Line/M&E,City of Orange Township
+ESSEX,40.77188877,-74.23313004,Orange,Morristown Line/M&E,City of Orange Township
+ESSEX,40.76549444,-74.21926808,Brick Church,Morristown Line/M&E,East Orange City
+ESSEX,40.76103536,-74.21096072,East Orange,Morristown Line/M&E,East Orange City
+MORRIS,40.87586892,-74.48192617,Mount Tabor,Morristown Line/M&E,Denville Township
+MORRIS,40.82871816,-74.47819987,Morris Plains,Morristown Line/M&E,Morris Plains Borough
+MORRIS,40.79721754,-74.47415603,Morristown,Morristown Line/M&E,Morristown Town
+MORRIS,40.77902564,-74.44340403,Convent Station,Morristown Line/M&E,Morris Township
+MORRIS,40.75707241,-74.41512988,Madison,Morristown Line/M&E,Madison Borough
+MORRIS,40.74019222,-74.38496296,Chatham,Morristown Line/M&E,Chatham Borough
+UNION,40.60639088,-74.27681573,Rahway,NEC / NJCL,Rahway City
+UNION,40.6294878,-74.25176859,Linden,NEC / NJCL,Linden City
+UNION,40.66785989,-74.21516754,Elizabeth,NEC / NJCL,Elizabeth City
+UNION,40.68026927,-74.20615891,North Elizabeth,NEC / NJCL,Elizabeth City
+ESSEX,40.7044153,-74.19071363,Newark Airport,NEC / NJCL,Newark City
+"NEW YORK CITY, NY",40.750053,-73.992357,New York Penn Station,NEC / NJCL / M&E,"New York City, NY"
+HUDSON,40.76119069,-74.07581813,Secaucus Junction Lower Level,NEC / NJCL / M&E / Main&Bergen,Secaucus Town
+HUDSON,40.76119069,-74.07581813,Secaucus Junction Upper Level,NEC / NJCL / M&E / Main/Bergen,Secaucus
+ESSEX,40.73425642,-74.16454408,Newark Penn Station,NEC / NJCL / RVL,Newark City
+OCEAN,40.09271796,-74.04819191,Point Pleasant,North Jersey Coast Line,Point Pleasant Beach Borough
+MONMOUTH,40.15056656,-74.03545959,Spring Lake,North Jersey Coast Line,Spring Lake Borough
+MONMOUTH,40.180589,-74.02729578,Belmar,North Jersey Coast Line,Belmar Borough
+MONMOUTH,40.20377526,-74.01895649,Bradley Beach,North Jersey Coast Line,Bradley Beach Borough
+MONMOUTH,40.21536022,-74.01478753,Asbury Park,North Jersey Coast Line,Asbury Park City
+MONMOUTH,40.2376575,-74.00675941,Allenhurst,North Jersey Coast Line,Allenhurst Borough
+MONMOUTH,40.26532373,-73.9975894,Elberon,North Jersey Coast Line,Long Branch City
+MONMOUTH,40.29714701,-73.98833506,Long Branch,North Jersey Coast Line,Long Branch City
+MONMOUTH,40.31339403,-74.01519011,Monmouth Park,North Jersey Coast Line,Oceanport Borough
+MONMOUTH,40.32671232,-74.04105342,Little Silver,North Jersey Coast Line,Little Silver Borough
+MONMOUTH,40.34831262,-74.07455109,Red Bank,North Jersey Coast Line,Red Bank Borough
+MONMOUTH,40.38978028,-74.11613209,Middletown,North Jersey Coast Line,Middletown Township
+MONMOUTH,40.41538027,-74.19039437,Hazlet,North Jersey Coast Line,Hazlet Township
+MONMOUTH,40.42016847,-74.2236997,Aberdeen-Matawan,North Jersey Coast Line,Matawan Borough
+MIDDLESEX,40.4843101,-74.28013729,South Amboy,North Jersey Coast Line,South Amboy City
+MIDDLESEX,40.50937349,-74.27370313,Perth Amboy,North Jersey Coast Line,Perth Amboy City
+MIDDLESEX,40.55660956,-74.27774645,Woodbridge,North Jersey Coast Line,Woodbridge Township
+MIDDLESEX,40.57768839,-74.27746437,Avenel,North Jersey Coast Line,Woodbridge Township
+OCEAN,40.07718894,-74.04618116,Bay Head,North Jersey Coast Line,Bay Head Borough
+MONMOUTH,40.12062168,-74.04764353,Manasquan,North Jersey Coast Line,Manasquan Borough
+MIDDLESEX,40.56857549,-74.32933426,Metropark,Northeast Corridor,Woodbridge Township
+MIDDLESEX,40.54077254,-74.36041592,Metuchen,Northeast Corridor,Metuchen Borough
+MIDDLESEX,40.51914917,-74.41097231,Edison,Northeast Corridor,Edison Township
+MIDDLESEX,40.49732057,-74.44565297,New Brunswick,Northeast Corridor,New Brunswick City
+MIDDLESEX,40.47690365,-74.46732927,Jersey Avenue,Northeast Corridor,New Brunswick City
+MERCER,40.31631585,-74.62375104,Princeton Jct.,Northeast Corridor,West Windsor Township
+MERCER,40.34213264,-74.65878146,Princeton,Northeast Corridor,Princeton
+MERCER,40.21851526,-74.75391804,Trenton,Northeast Corridor,Trenton City
+MERCER,40.25530791,-74.70412069,Hamilton,Northeast Corridor,Hamilton Township
+"ROCKLAND, NY",41.11197383,-74.04399276,Spring Valley,Pascack Valley Line,"Ramapo Town, NY"
+"ROCKLAND, NY",41.09000116,-74.01471197,Nanuet,Pascack Valley Line,"Clarkstown Town, NY"
+"ROCKLAND, NY",41.05819,-74.022312,Pearl River,Pascack Valley Line,"Orangetown, NY"
+BERGEN,41.04088179,-74.02914789,Montvale,Pascack Valley Line,Montvale Borough
+BERGEN,41.03231317,-74.03615914,Park Ridge,Pascack Valley Line,Park Ridge Borough
+BERGEN,41.00240676,-74.04102653,Hillsdale,Pascack Valley Line,Hillsdale Borough
+BERGEN,40.99086221,-74.03272031,Westwood,Pascack Valley Line,Westwood Borough
+BERGEN,40.97508059,-74.02746033,Emerson,Pascack Valley Line,Emerson Borough
+BERGEN,40.95347665,-74.02997955,Oradell,Pascack Valley Line,Oradell Borough
+BERGEN,40.93514694,-74.02913852,River Edge,Pascack Valley Line,River Edge Borough
+BERGEN,40.91084363,-74.03504972,New Bridge Landing,Pascack Valley Line,River Edge Borough
+BERGEN,40.89445719,-74.04377699,Anderson Street-Hackensack,Pascack Valley Line,Hackensack City
+BERGEN,40.87899603,-74.0518833,Essex Street-Hackensack,Pascack Valley Line,Hackensack City
+BERGEN,40.86488822,-74.06265447,Teterboro-Williams Ave,Pascack Valley Line,Hasbrouck Heights Borough
+BERGEN,40.84386853,-74.07879475,Wood-Ridge,Pascack Valley Line,Wood-Ridge Borough
+BERGEN,41.02107788,-74.04077218,Woodcliff Lake,Pascack Valley Line,Woodcliff Lake Borough
+HUNTERDON,40.666885,-74.895857,High Bridge,Raritan Valley Line,High Bridge Borough
+HUNTERDON,40.63691535,-74.83576307,Lebanon,Raritan Valley Line,Lebanon Borough
+HUNTERDON,40.61561788,-74.77065867,White House,Raritan Valley Line,Readington Township
+SOMERSET,40.59202749,-74.6837925,North Branch,Raritan Valley Line,Branchburg Township
+SOMERSET,40.57099484,-74.63436504,Raritan,Raritan Valley Line,Raritan Borough
+SOMERSET,40.56607341,-74.61397131,Somerville,Raritan Valley Line,Somerville Borough
+SOMERSET,40.55991252,-74.55173858,Bridgewater,Raritan Valley Line,Bridgewater Township
+SOMERSET,40.56092955,-74.53061208,Bound Brook,Raritan Valley Line,Bound Brook Borough
+MIDDLESEX,40.59086807,-74.46303809,Dunellen,Raritan Valley Line,Dunellen Borough
+UNION,40.61842707,-74.42015617,Plainfield,Raritan Valley Line,Plainfield City
+UNION,40.62915842,-74.40343882,Netherwood,Raritan Valley Line,Plainfield City
+UNION,40.64092299,-74.38522257,Fanwood,Raritan Valley Line,Fanwood Borough
+UNION,40.6494553,-74.34762441,Westfield,Raritan Valley Line,Westfield Town
+UNION,40.65256576,-74.32483369,Garwood,Raritan Valley Line,Garwood Borough
+UNION,40.65557127,-74.3028778,Cranford,Raritan Valley Line,Cranford Township
+UNION,40.66710612,-74.26640196,Roselle Park,Raritan Valley Line,Roselle Park Borough
+HUNTERDON,40.64517406,-74.87852493,Annandale,Raritan Valley Line,Clinton Township
+UNION,40.68376947,-74.23843167,Union,Raritan Valley Line,Union Township
