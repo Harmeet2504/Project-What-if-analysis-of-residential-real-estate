@@ -1,0 +1,1367 @@
+,school_id,name,avg_std_score,rank_star,county,zip
+0,341269004924,School 28,98.13338,5,Passaic,07522
+1,340074603143,Thomas Edison EnergySmart Charter School,97.55125,5,Somerset,08873
+2,341020002154,Glenwood School,97.53272,5,Essex,07078
+3,340000406017,Milton Avenue School,97.5255,5,Morris,07928
+4,340537000460,High Mountain Road School,96.97639,5,Bergen,07417
+5,340933000596,George Washington School,96.6845,5,Bergen,07430
+6,341017003020,Milford School,96.213,5,Hunterdon,08848
+7,340783002834,Cornelia F. Bradford School,96.12056,5,Hudson,07302
+8,340459000013,Terence C. Reilly School No 7,95.75322,5,Union,07206
+9,340075000226,Hillside Elementary School,95.6695,5,Bergen,07401
+10,341020002152,Deerfield School,95.64407,5,Essex,07078
+11,340477000406,Upper School,95.55733,5,Bergen,07632
+12,340498000416,Henry B. Milnes Elementary School,95.52719,5,Bergen,07410
+13,340483002082,Essex Fells Elementary School,95.48612,5,Essex,07021
+14,340459005524,William F. Halloran School No.22,95.45894,5,Union,07202
+15,340004300323,Princeton Charter School,95.43749,5,Mercer,08540
+16,340732000530,Ho-Ho-Kus Public School,95.31042,5,Bergen,07423
+17,341020002162,Wyoming School,95.25677,5,Essex,07041
+18,340993004320,Mendham Township Elementary School,95.16891,5,Morris,07926
+19,340342001486,Zane North Elementary School,95.14075,5,Camden,08108
+20,341662000882,Edith A. Bogert Elementary School,94.87446,5,Bergen,07458
+21,341452000834,Wandell School,94.77705,5,Bergen,07458
+22,340228006047,Hamilton Primary School,94.63766,5,Somerset,07920
+23,341590005714,Franklin Elementary School,94.58,5,Union,07901
+24,341521003628,Monmouth Junction Elementary School,94.57758,5,Middlesex,08852
+25,341638000143,Sara M. Gilmore Academy,94.52927,5,Hudson,07087
+26,341437004090,Deane-Porter Elementary School,94.527,5,Monmouth,07760
+27,341020002156,Hartshorn School,94.48225,5,Essex,07078
+28,340882002140,Mount Pleasant Elementary School,94.31301,5,Essex,07039
+29,340165000355,Mount Prospect Elementary School,94.14342,5,Somerset,07920
+30,340495003780,Viola L Sickles School,94.1105,5,Monmouth,07704
+31,341776005782,Washington Elementary School,93.91521,5,Union,07090
+32,341152002372,Gould/Mountain Elementary School,93.90983,5,Essex,07006
+33,340450003354,Martin Luther King Elementary School,93.82089,5,Middlesex,08820
+34,340087000228,Alpine Elementary School,93.72832,5,Bergen,07620
+35,341290004472,Hillview School,93.68832,5,Morris,07444
+36,340360000328,Merritt Memorial,93.65288,5,Bergen,07626
+37,341590005718,Lincoln-Hubbard Elementary School,93.64011,5,Union,07901
+38,341101004422,Wildwood Elementary School,93.60895,5,Morris,07046
+39,341248004448,Littleton Elementary School,93.51717,5,Morris,07950
+40,341050002982,Oak Tree Elementary School,93.43,5,Middlesex,08831
+41,340339000316,Hillside Elementary School,93.24439,5,Bergen,07624
+42,341383000774,Ridge Elementary School,93.23859,5,Bergen,07450
+43,341590005722,Washington Elementary School,93.09502,5,Union,07901
+44,341020000230,South Mountain School,92.96141,5,Essex,07041
+45,340498000430,Westmoreland Elementary School,92.90378,5,Bergen,07410
+46,340933000588,Betsy Ross Elementary,92.89196,5,Bergen,07430
+47,341071001142,South Valley Elementary School,92.8865,5,Burlington,08057
+48,340450003366,Woodbrook Elementary School,92.74121,5,Middlesex,08820
+49,341383000772,Hawes Elementary School,92.60253,5,Bergen,07451
+50,340300001450,Joseph D. Sharp Elementary School,92.54027,5,Camden,08003
+51,341389000792,Cherry Hill School,92.45309,5,Bergen,07661
+52,341248004452,Northvail Elementary School,92.44347,5,Morris,07054
+53,340882002142,Riker Hill Elementary School,92.29615,5,Essex,07039
+54,340597000482,Alexander Hamilton School,92.26067,5,Bergen,07452
+55,340672004260,Harding Township School,92.14575,5,Morris,07976
+56,341065004338,Hilldale School,92.04778,5,Morris,07058
+57,341131005600,Salt Brook School,91.77482,5,Union,07974
+58,340498000420,Lyncrest Elementary School,91.75833,5,Bergen,07410
+59,340531000444,School No. 1,91.7361,5,Bergen,07024
+60,340639001560,Elizabeth Haddon School,91.6787,5,Camden,08033
+61,340873000525,Little Falls Township Public School # 3,91.5711,5,Passaic,07424
+62,340073503055,Hatikvah International Academy Charter School,91.5548,5,Middlesex,08816
+63,340927003524,Walter M. Schirra Elementary School,91.53667,5,Middlesex,08857
+64,341071001134,George C. Baker Elementary School,91.4955,5,Burlington,08057
+65,341770003262,Maurice Hawk Elementary School,91.46719,5,Mercer,08550
+66,341383000782,Willard Elementary School,91.44971,5,Bergen,07451
+67,341422004086,Roosevelt Public School,91.40499,5,Monmouth,08555
+68,340753003140,Toll Gate Grammar School,91.21736,5,Mercer,08534
+69,341245000714,West Ridge Elementary School,91.18728,5,Bergen,07656
+70,341065004344,Woodmont School,91.18353,5,Morris,07058
+71,341383000776,Somerville Elementary School,91.14249,5,Bergen,07451
+72,340450003356,Menlo Park Elementary School,91.10397,5,Middlesex,08820
+73,340360000326,Edward H. Bryan,91.10181,5,Bergen,07626
+74,340594002098,Ridgewood Avenue School,91.08166,5,Essex,07028
+75,341152002374,Grandview Elementary School,91.014,5,Essex,07006
+76,340002500291,Robert Treat Academy Charter School,90.94739,5,Essex,07104
+77,341776005770,Franklin Elementary School,90.92472,5,Union,07090
+78,341611000868,Malcolm S Mackay School,90.90297,5,Bergen,07670
+79,340387004206,Riverview Elementary School,90.87359,5,Morris,07834
+80,340228006126,Milltown Primary School,90.87143,5,Somerset,08807
+81,340753000503,Stony Brook Elementary School,90.83376,5,Mercer,08534
+82,340639001556,Central School,90.83355,5,Camden,08033
+83,341836000942,Calvin Coolidge Elementary School,90.76842,5,Bergen,07481
+84,340198004162,Rockaway Valley School,90.76183,5,Morris,07005
+85,340696000520,Haworth Public School,90.63866,5,Bergen,07641
+86,340723005226,Hillsborough Township Elementary School,90.59109,5,Somerset,08844
+87,340003200302,Hoboken Charter School,90.55475,5,Hudson,07030
+88,341242000700,Parkway Elementary School,90.49122,5,Bergen,07652
+89,341590005712,Brayton Elementary School,90.48923,5,Union,07901
+90,341383000780,Orchard Elementary School,90.43287,5,Bergen,07451
+91,340450003342,James Madison Intermediate School,90.31078,5,Middlesex,08820
+92,341038004018,Monmouth Beach Elementary School,90.30787,5,Monmouth,07750
+93,340165005128,Oak Street School,90.29554,5,Somerset,07920
+94,341698000244,Woodland School,90.25567,5,Somerset,07059
+95,340411003318,Warnsdorfer Elementary School,90.24994,5,Middlesex,08816
+96,340597000490,Clara E Coleman School,90.09114,5,Bergen,07452
+97,341467005686,J. Ackerman Coles Elementary School,90.03513,5,Union,07076
+98,340357005466,Brookside Place School,89.73104,5,Union,07016
+99,341389000794,Roosevelt School,89.63956,5,Bergen,07661
+100,340882002138,Hillside Elementary School,89.60257,5,Essex,07039
+101,341611000870,Ralph S Maugham School,89.54466,5,Bergen,07670
+102,341341000067,Johnson Park School,89.46641,5,Mercer,08540
+103,341131005594,Allen W. Roberts School,89.4635,5,Union,07974
+104,340009000829,Central Jersey College Prep Charter School,89.4596,5,Somerset,08873
+105,340723006068,Amsterdam Elementary School,89.4464,5,Somerset,08844
+106,340741003856,Village School,89.43088,5,Monmouth,07733
+107,340153005434,Thomas P. Hughes School,89.36299,5,Union,07922
+108,341683001676,Edward T. Hamilton,89.32088,5,Camden,08043
+109,341782000910,Berkeley Elementary,89.31809,5,Bergen,07675
+110,340153005440,Mountain Park School,89.22672,5,Union,07922
+111,340753003138,Bear Tavern Elementary School,89.18217,5,Mercer,08560
+112,341248000401,Lake Hiawatha Elementary School,89.15417,5,Morris,07034
+113,340411003302,Central Elementary School,89.15007,5,Middlesex,08816
+114,340231003754,Brielle Elementary School,89.11536,5,Monmouth,08730
+115,341776005780,Tamaques Elementary School,89.00837,5,Union,07090
+116,341611000874,Walter Stillman School,88.92993,5,Bergen,07670
+117,341212004074,Wolf Hill School,88.75956,5,Monmouth,07757
+118,341698006106,Angelo L. Tomaso School,88.69797,5,Somerset,07059
+119,340126000141,Nicholas Oresko Community School,88.51027,5,Hudson,07002
+120,340501002086,Adlai E. Stevenson,88.28,5,Essex,07004
+121,341836000948,Sicomac Elementary School,88.16145,5,Bergen,07481
+122,341359000736,Mary A. Hubbard Elementary School,88.1345,5,Bergen,07446
+123,340498000422,Radburn Elementary School,88.11661,5,Bergen,07410
+124,340408002980,East Amwell Township,88.10712,5,Hunterdon,08551
+125,341098004412,Tinc Rd. Elementary School,88.01408,5,Morris,07836
+126,340972003946,Frank Defino Central Elementary School,87.88832,5,Monmouth,07746
+127,340354003282,Cranbury School,87.87674,5,Middlesex,08512
+128,341206004066,Wanamassa Elementary School,87.81077,5,Monmouth,07712
+129,341065004334,Cedar Hill School,87.7158,5,Morris,07082
+130,340882002136,Harrison Elementary School,87.66502,5,Essex,07039
+131,340228005170,Crim Primary School,87.53549,5,Somerset,08807
+132,340000406018,Washington Avenue School,87.50296,5,Morris,07928
+133,340411003314,Frost Elementary School,87.49362,5,Middlesex,08816
+134,340924004310,Torey J. Sabatini School,87.43158,5,Morris,07940
+135,341056002184,Watchung Elementary School,87.38499,5,Essex,07042
+136,341776005784,Wilson Elementary School,87.30976,5,Union,07090
+137,340002400289,North Star Academy Charter School,87.24767,4,Essex,07102
+138,340735002760,Salvatore R. Calabro,87.22943,4,Hudson,07030
+139,341473004098,Sea Girt Elementary School,87.1248,4,Monmouth,08750
+140,341611000866,J Spencer Smith School,86.98284,4,Bergen,07670
+141,340684000508,Harrington Park School,86.919,4,Bergen,07640
+142,341557004106,H W Mountz Elementary School,86.89605,4,Monmouth,07762
+143,340357005470,Livingston Avenue School,86.8812,4,Union,07016
+144,340939003930,Milford Brook School,86.74808,4,Monmouth,07726
+145,341383000778,Travell Elementary School,86.73381,4,Bergen,07451
+146,341224000678,Oradell Public School,86.71897,4,Bergen,07649
+147,340300001456,Richard Stockton Elementary School,86.70771,4,Camden,08003
+148,341521000509,Brooks Crossing Elementary School,86.67686,4,Middlesex,08852
+149,340387004202,Lakeview Elementary School,86.63814,4,Morris,07834
+150,340972003952,Robertsville Elementary School,86.60057,4,Monmouth,07751
+151,341761002492,St. Cloud Elementary School,86.48517,4,Essex,07052
+152,340285002030,North End Elementary School,86.34636,4,Essex,07009
+153,340867000150,Seaview Elementary School,86.21493,4,Atlantic,08221
+154,340888002582,Logan Township Elementary School,86.20179,4,Gloucester,08085
+155,340519002984,Barley Sheaf Elementary School,86.17924,4,Hunterdon,08822
+156,341467005692,William J. McGinn Elementary School,86.13042,4,Union,07076
+157,341776005774,Jefferson Elementary School,86.11535,4,Union,07090
+158,340183002002,Oak View Elementary School,86.11129,4,Essex,07003
+159,341395000802,Woodside Elementary School,86.09199,4,Bergen,07675
+160,341242000696,Memorial Elementary School,86.06744,4,Bergen,07652
+161,341218000676,T. Baldwin Demarest Elementary School,86.00261,4,Bergen,07675
+162,341521003614,Cambridge Elementary School,85.9932,4,Middlesex,08824
+163,340882006052,Burnet Hill Elementary School,85.94933,4,Essex,07039
+164,341830000924,Catherine E. Doyle Elementary School,85.91029,4,Bergen,07075
+165,340939000453,Wemrock Brook School,85.83577,4,Monmouth,07726
+166,340879003900,Point Road School,85.80904,4,Monmouth,07739
+167,340804004288,Stonybrook Elementary School,85.72391,4,Morris,07405
+168,340411003306,Lawrence Brook Elementary School,85.6489,4,Middlesex,08816
+169,341674002458,Laning Avenue School,85.58141,4,Essex,07044
+170,340327000306,School #3,85.56259,4,Bergen,07010
+171,340153005442,William Woodruff School,85.46472,4,Union,07922
+172,340597000486,Richard E Byrd,85.4114,4,Bergen,07452
+173,340597000488,Central School,85.37718,4,Bergen,07452
+174,340165005132,Liberty Corner School,85.21475,4,Somerset,07938
+175,340399000342,Grant Elementary School,85.21395,4,Bergen,07628
+176,340300001422,A. Russell Knight Elementary School,85.21241,4,Camden,08034
+177,341071001138,Mary E. Roberts Elementary School,85.0925,4,Burlington,08057
+178,340723005228,Sunnymead Elementary School,85.02692,4,Somerset,08844
+179,340987001120,Cranberry Pines Elementary,85.02037,4,Burlington,08055
+180,341065004340,Valley View School,84.97,4,Morris,07045
+181,341191000668,Manito Elementary School,84.96995,4,Bergen,07436
+182,340933000492,Lenape Meadows,84.86956,4,Bergen,07430
+183,340165006021,Cedar Hill School,84.65179,4,Somerset,07920
+184,341341003190,Riverside School,84.57374,4,Mercer,08540
+185,340753003142,Hopewell Elementary School,84.5275,4,Mercer,08525
+186,340498000426,Warren Point Elementary School,84.46544,4,Bergen,07410
+187,341290004474,North Boulevard School,84.45998,4,Morris,07444
+188,341770003264,J.V.B. Wicoff Elementary School,84.35085,4,Middlesex,08536
+189,341128000626,Berkley Street School,84.28082,4,Bergen,07646
+190,341770006077,Millstone River School,84.26185,4,Middlesex,08536
+191,340073403037,Hoboken Dual Language Charter School,84.05716,4,Hudson,07030
+192,340882002134,Collins Elementary School,84.04588,4,Essex,07039
+193,341728004970,Albert Payson Terhune Elementary,83.85564,4,Passaic,07470
+194,340723005234,Woods Road Elementary School,83.74619,4,Somerset,08844
+195,341644000805,Union Township Elementary School,83.68152,4,Hunterdon,08827
+196,340525004236,Brooklake School,83.66078,4,Morris,07932
+197,340939003926,Clark Mills School,83.64811,4,Monmouth,07726
+198,341698005310,Mt. Horeb School,83.41411,4,Somerset,07059
+199,341062000618,Memorial Elementary School,83.37506,4,Bergen,07645
+200,340951000704,Mansfield Township Elementary School,83.36949,4,Burlington,08022
+201,340927003502,Cheesequake Elementary School,83.36056,4,Monmouth,07747
+202,341812003702,Kennedy Park Elementary School,83.33489,4,Middlesex,08830
+203,341248004458,Troy Hills Elementary School,83.28679,4,Morris,07054
+204,341188002384,Radcliffe School,83.24077,4,Essex,07110
+205,340633001530,Glenview Avenue,83.166,4,Camden,08035
+206,340693000518,Lincoln Elementary School,83.16034,4,Bergen,07604
+207,341836000946,George Washington Elementary School,83.15096,4,Bergen,07481
+208,341395000800,Roberge Elementary School,83.06749,4,Bergen,07675
+209,340987006113,Chairville Elementary School,83.01861,4,Burlington,08055
+210,341776005778,McKinley Elementary School,82.99432,4,Union,07090
+211,340927003516,M. Scott Carpenter Elementary School,82.8304,4,Middlesex,08857
+212,341821000934,Dorchester Elementary School,82.82374,4,Bergen,07677
+213,341341006034,Littlebrook School,82.79201,4,Mercer,08540
+214,341782000914,Jessie F. George Elementary,82.77148,4,Bergen,07676
+215,341536003638,John E Riley Elementary School,82.7229,4,Middlesex,07080
+216,340576000476,Roosevelt School #7,82.72128,4,Bergen,07026
+217,340000800109,Liberty Elementary School,82.47331,4,Warren,07838
+218,341266004466,Millington Elementary School,82.46409,4,Morris,07946
+219,340972003954,Asher Holmes Elementary School,82.35386,4,Monmouth,07751
+220,341098004410,Sandshore Rd. Elementary School,82.29576,4,Morris,07828
+221,340300001444,James F. Cooper Elementary School,82.2594,4,Camden,08003
+222,341011003998,Middletown Village Elementary School,82.22724,4,Monmouth,07748
+223,341698005306,Central School,82.20762,4,Somerset,07059
+224,341617000545,Tewksbury Elementary School,82.13747,4,Hunterdon,07830
+225,340203005927,Peter Muschal Elementary,82.134,4,Burlington,08505
+226,340006400373,The Gray Charter School,82.13304,4,Essex,07102
+227,341761000182,Mount Pleasant Elementary School,82.06961,4,Essex,07052
+228,340002600292,Maria Varisco Rogers Charter School,82.05915,4,Essex,07104
+229,341770003260,Dutch Neck Elementary School,82.03981,4,Mercer,08550
+230,341686000892,Julia A Traphagen School,81.98036,4,Bergen,07463
+231,341014000612,Highland Elementary School,81.8701,4,Bergen,07432
+232,341761002482,Gregory Elementary School,81.83129,4,Essex,07052
+233,340381006085,Luther Lee Emerson School,81.7864,4,Bergen,07627
+234,340726000528,Meadowbrook,81.7274,4,Bergen,07642
+235,340357005462,Orange Avenue School,81.66038,4,Union,07016
+236,340654003130,Yardville Elementary School,81.62979,4,Mercer,08620
+237,341497004102,Shrewsbury Borough Elementary School,81.51972,4,Monmouth,07702
+238,341104005588,Deerfield Elementary School,81.47567,4,Union,07092
+239,341245000712,East Brook Elementary School,81.41696,4,Bergen,07656
+240,340537000532,Colonial Road School,81.40122,4,Bergen,07417
+241,340939003928,Lafayette Mills School,81.22213,4,Monmouth,07726
+242,340002900297,Elysian Charter School of Hoboken,81.1994,4,Hudson,07030
+243,341650005760,Washington Elementary,81.12401,4,Union,07083
+244,340723005232,Woodfern Elementary School,81.05236,4,Somerset,08844
+245,340771004608,Island Heights Elementary School,81.04884,4,Ocean,08732
+246,341098004406,Mountain View Elementary School,81.0,4,Morris,07836
+247,340987001126,Milton H. Allen Elementary School,80.98599,4,Burlington,08055
+248,341533002432,Jefferson Elementary School,80.96884,4,Essex,07040
+249,340669004256,Mountview Road School,80.91177,4,Morris,07950
+250,341242000702,Ridge Ranch Elementary School,80.90765,4,Bergen,07652
+251,341290004482,Stephen J. Gerace School,80.83665,4,Morris,07440
+252,341398004498,Riverdale School,80.7709,4,Morris,07457
+253,341536003636,John F Kennedy Elementary School,80.71952,4,Middlesex,07080
+254,340450003348,John Marshall Elementary School,80.66562,4,Middlesex,08817
+255,341536003644,Roosevelt Elementary School,80.60574,4,Middlesex,07080
+256,341590005716,Jefferson Elementary School,80.5734,4,Union,07901
+257,341188002388,Spring Garden School,80.41896,4,Essex,07110
+258,340960002586,Centre City Elementary School,80.416,4,Gloucester,08051
+259,340123004568,Bay Head Elementary,80.40525,4,Ocean,08742
+260,341734002658,Wenonah Elementary School,80.38688,4,Gloucester,08090
+261,340531000450,School No. 4,80.34763,4,Bergen,07024
+262,341359000738,Wesley D Tisdale Elementary School,80.27607,4,Bergen,07446
+263,340990004314,Hilltop School,80.25845,4,Morris,07945
+264,341011004004,Nut Swamp Elementary School,80.25717,4,Monmouth,07748
+265,340345003762,Conover Road Elementary School,80.21206,4,Monmouth,07722
+266,341665001760,Upper Township Elementary School,80.0861,4,Cape May,08223
+267,341248000241,Mount Tabor Elementary School,79.93684,4,Morris,07878
+268,340342001478,James A. Garfield Elementary School,79.93504,4,Camden,08108
+269,341467005684,Howard B. Brunner Elementary School,79.84598,4,Union,07076
+270,340450003350,Lincoln Elementary School,79.82063,4,Middlesex,08817
+271,341728004982,Packanack Elementary School,79.69821,4,Passaic,07470
+272,341563005702,James Caldwell Elementary School,79.5082,4,Union,07081
+273,341713004546,Old Farmers Road School,79.46748,4,Morris,07853
+274,340150000274,Jefferson Elementary School,79.46678,4,Bergen,07621
+275,340723005230,Triangle Elementary Shcool,79.39688,4,Somerset,08844
+276,341836000940,Abraham Lincoln Elementary School,79.34565,4,Bergen,07481
+277,340228005186,Van Holten Primary School,79.3175,4,Somerset,08807
+278,340000406019,Southern Boulevard School,79.12398,4,Morris,07928
+279,341404001238,Riverton School,78.99702,4,Burlington,08077
+280,340972003948,Marlboro Elementary School,78.98322,4,Monmouth,07746
+281,340639001562,J. Fithian Tatem School,78.97356,4,Camden,08033
+282,341188002392,Yantacaw School,78.93409,4,Essex,07110
+283,341782000916,Brookside Elementary School,78.90433,4,Bergen,07675
+284,341134002244,Branch Brook School,78.8225,4,Essex,07104
+285,340531000446,School No. 2,78.81527,4,Bergen,07024
+286,341425002418,Lester C Noecker,78.79766,4,Essex,07068
+287,341533002444,Tuscan Elementary School,78.76642,4,Essex,07040
+288,341143000640,Roosevelt Elementary School,78.72954,4,Bergen,07031
+289,341716005892,Port Colden School,78.6935,4,Warren,07882
+290,340102003746,Atlantic Highlands Elementary School,78.64885,4,Monmouth,07716
+291,340531000448,School No. 3,78.61296,4,Bergen,07024
+292,340972006030,Frank J. Dugan Elementary School,78.54233,4,Monmouth,07746
+293,340261002962,Califon Elementary,78.48933,4,Hunterdon,07830
+294,341248004446,Lake Parsippany Elementary School,78.47758,4,Morris,07054
+295,340150000276,Lincoln Elementary School,78.40213,4,Bergen,07621
+296,340315005454,Valley Road School,78.15197,4,Union,07066
+297,341059000398,Village Elementary School,78.07445,4,Somerset,08558
+298,341065004342,William Mason School,78.03468,4,Morris,07045
+299,341248004442,Knollwood Elementary School,78.01547,4,Morris,07034
+300,340783002786,Dr. Michael Conti School,77.99479,4,Hudson,07302
+301,340411003312,Chittick Elementary School,77.90572,4,Middlesex,08816
+302,340711003002,High Bridge Elementary School,77.86708,4,Hunterdon,08829
+303,340756003870,Ramtown Elementary School,77.85637,4,Monmouth,07731
+304,341413004514,Catherine A Dwyer Elementary School,77.84537,4,Morris,07885
+305,340183001988,Brookdale Elementary School,77.8174,4,Essex,07003
+306,340150000280,Washington Elementary School,77.76404,4,Bergen,07621
+307,341719005316,Bayberry School,77.69732,4,Somerset,07069
+308,340654003114,Langtree Elementary School,77.64363,4,Mercer,08690
+309,340537000462,Woodside Avenue School,77.60284,4,Bergen,07417
+310,341563005704,Thelma L. Sandmeier Elementary School,77.58241,4,Union,07081
+311,340414000007,Samuel Mickle School,77.46261,4,Gloucester,08056
+312,341560004108,Spring Lake Heights Elementary School,77.46243,4,Monmouth,07762
+313,340252004168,Aaron Decker School,77.39448,4,Morris,07405
+314,341467005688,Evergreen Elementary School,77.38724,4,Union,07076
+315,341191000666,Heights Elementary School,77.36667,4,Bergen,07436
+316,341335004936,Lincoln School,77.31528,4,Passaic,07442
+317,341446000812,Lincoln School,77.23853,4,Bergen,07070
+318,340519000145,Copper Hill Elementary School,77.21383,4,Hunterdon,08551
+319,340411003300,Bowne-Munro Elementary School,77.18727,4,Middlesex,08816
+320,341683006061,Signal Hill School,77.1807,4,Camden,08043
+321,341308002618,Elwood Kindle Elementary School,77.16643,4,Gloucester,08071
+322,340399000346,Lincoln Elementary School,77.00222,4,Bergen,07628
+323,340306004196,Bragg Elementary School,76.94333,4,Morris,07930
+324,341683001680,Osage School,76.57263,4,Camden,08043
+325,341533002428,Clinton Elementary School,76.484,4,Essex,07040
+326,341050006096,Brookside Elementary School,76.40599,4,Middlesex,08831
+327,340924004304,Kings Road School,76.37309,4,Morris,07940
+328,341248004438,Eastlake Elementary School,76.36543,4,Morris,07054
+329,341182000656,Northvale Public School,76.32891,4,Bergen,07647
+330,341707002656,Whitman Elementary School,76.32547,4,Camden,08012
+331,341365004488,Center Grove School,76.3136,4,Morris,07869
+332,340852000538,Anna C. Scott Elementary School,76.30747,4,Bergen,07605
+333,341749006107,Betty McElmon Elementary,76.303,4,Monmouth,07764
+334,341461005392,Sandyston Walpack Consolidated School,76.29406,4,Sussex,07851
+335,341686000890,Crescent Elementary School,76.27631,4,Bergen,07463
+336,340576000387,James Madison School #10,76.23409,4,Bergen,07026
+337,341248004440,Intervale Elementary School,76.21757,4,Morris,07005
+338,340663005354,Marian E. McKeown Elementary School,76.1695,4,Sussex,07860
+339,341623004736,North Dover Elementary School,76.10284,4,Ocean,08753
+340,340612005218,Irene E. Feldkirchner Elementary School,76.0724,4,Middlesex,08812
+341,341533002442,South Mountain Elementary School,76.04288,4,Essex,07079
+342,340384001716,Dennis Township Primary School,76.038,4,Cape May,08210
+343,341077004358,Morris Plains Borough School,76.00228,4,Morris,07950
+344,341329004696,Nellie F. Bennett Elementary School,75.95323,4,Ocean,08742
+345,340336002970,Round Valley,75.93521,4,Hunterdon,08833
+346,340987001128,Taunton Forge Elementary School,75.86091,4,Burlington,08055
+347,340828001566,Laurel Springs School,75.84817,4,Camden,08021
+348,340258002020,Washington Elementary School,75.82437,4,Essex,07006
+349,340693000514,Euclid Elementary School,75.82427,4,Bergen,07604
+350,341551003243,Mohawk Avenue School,75.8205,4,Sussex,07871
+351,341689004134,Allenwood Elementary School,75.80708,4,Monmouth,07719
+352,341371003034,Whitehouse School,75.781,4,Hunterdon,08889
+353,340960002590,Sewell Elementary School,75.772,4,Gloucester,08080
+354,340004200322,Pace Charter School of Hamilton,75.72625,4,Mercer,08619
+355,340000900177,Marion T. Bedwell Elementary School,75.72144,4,Somerset,07924
+356,340609005350,Green Hills School,75.64594,4,Sussex,07839
+357,340975003970,Ravine Drive Elementary School,75.556,4,Monmouth,07747
+358,340783002848,Jotham W. Wakeman School,75.52872,4,Hudson,07306
+359,340003600309,Soaring Heights Charter School,75.42252,4,Hudson,07305
+360,341710003252,Sharon School,75.41119,4,Mercer,08691
+361,341338000204,Port Republic Elementary School,75.39254,4,Atlantic,08241
+362,341191000664,Dogwood Hill Elementary School,75.32367,4,Bergen,07436
+363,341443001652,Grade Downing Elementary School,75.2995,4,Camden,08078
+364,341683001678,Kresson School,75.22953,4,Camden,08043
+365,341674002450,Brookdale Avenue School,75.20025,4,Essex,07044
+366,341728004986,Randall Carter Elementary School,75.10781,4,Passaic,07470
+367,340411005994,Irwin Elementary School,75.07988,4,Middlesex,08816
+368,341011004008,River Plaza Elementary School,74.96722,4,Monmouth,07701
+369,340357005460,Hillside Avenue School,74.95975,4,Union,07016
+370,341566001244,Springfield Township School,74.91865,4,Burlington,08041
+371,340633001534,Atlantic Avenue,74.81511,4,Camden,08035
+372,340969000393,William H. Ross III School,74.7827,4,Atlantic,08402
+373,341761002490,Redwood Elementary School,74.70327,4,Essex,07052
+374,341434004530,Jefferson Elementary School,74.65046,4,Morris,07876
+375,340192000286,E. Roy Bixby,74.62688,4,Bergen,07603
+376,341011003990,Fairview Elementary School,74.62048,4,Monmouth,07701
+377,341098004404,Chester M. Stephens Elementary School,74.6134,4,Morris,07828
+378,341056005984,Charles H. Bullock School,74.59696,4,Essex,07042
+379,340489001076,Robert B Jaggard School,74.5759,4,Burlington,08053
+380,341011003996,Lincroft Elementary School,74.43354,4,Monmouth,07738
+381,340309001016,Chesterfield Township Elementary School,74.36567,4,Burlington,08515
+382,340300001428,Bret Harte Elementary School,74.30617,4,Camden,08003
+383,341035004326,Canfield Avenue School,74.23959,4,Morris,07803
+384,341185000660,Norwood Public School,74.14755,4,Bergen,07648
+385,340564003812,C. Richard Applegate School,74.10972,4,Monmouth,07728
+386,341467005682,School One Elementary,74.04334,4,Union,07076
+387,341188002390,Washington School,73.95821,4,Essex,07110
+388,341521003612,Brunswick Acres Elementary School,73.95362,4,Middlesex,08824
+389,341650005758,Livingston Elementary,73.92872,4,Union,07083
+390,341011004000,Navesink Elementary School,73.88046,4,Monmouth,07716
+391,341095001156,Countryside Elementary School,73.84195,4,Burlington,08054
+392,341095000423,Springville Elementary School,73.80717,4,Burlington,08054
+393,340342001484,William P Tatem Elementary School,73.78504,4,Camden,08108
+394,340699004814,Thomas Jefferson Elementary School,73.71473,4,Passaic,07507
+395,340417004224,Central Elementary School,73.65713,4,Morris,07936
+396,340330004780,School #9,73.60727,4,Passaic,07012
+397,341047005938,Radix Elementary,73.60463,4,Gloucester,08094
+398,340948005036,Mannington Township Elementary School,73.53354,4,Salem,08079
+399,340885005975,Roosevelt School,73.49379,4,Bergen,07644
+400,340564003822,West Freehold School,73.46017,4,Monmouth,07728
+401,341695004960,Wanaque Elementary School,73.36415,4,Passaic,07465
+402,340300001440,Horace Mann Elementary School,73.32763,4,Camden,08003
+403,340001400258,Englewood on the Palisades Charter School,73.30253,4,Bergen,07631
+404,341449000830,Salome H. Long Memorial School,73.27436,4,Bergen,07663
+405,340192000290,Lillian M. Steen,73.25255,4,Bergen,07603
+406,340327000308,School #4,73.12674,4,Bergen,07010
+407,341728000408,James Fallon Elementary School,73.1063,4,Passaic,07470
+408,340001500259,Teaneck Community Charter School,73.054,4,Bergen,07666
+409,341305000042,Knollwood Elementary School,72.81442,4,Middlesex,08854
+410,341536003640,Franklin Elementary School,72.80686,4,Middlesex,07080
+411,340258002016,Lincoln Elementary School,72.78226,3,Essex,07006
+412,340987000540,Kirby's Mill Elementary School,72.77953,3,Burlington,08055
+413,340669004258,Salem Drive School,72.68574,3,Morris,07981
+414,341248004454,Rockaway Meadow Elementary School,72.64088,3,Morris,07054
+415,340564003818,Marshall W. Errickson School,72.51417,3,Monmouth,07728
+416,340885000554,Hilltop School,72.44948,3,Bergen,07644
+417,340840003162,Lawrenceville Elementary School,72.419,3,Mercer,08648
+418,340258002014,Jefferson Elementary School,72.30502,3,Essex,07006
+419,340399000348,Selzer Elementary\Middle School,72.25161,3,Bergen,07628
+420,340228005168,Bradley Gardens Primary School,72.19987,3,Somerset,08807
+421,341386004946,Peter Cooper School,72.178,3,Passaic,07456
+422,341056002170,Edgemont Elementary School,72.16529,3,Essex,07042
+423,340783002822,Dr. Paul Rafalides School,72.02469,3,Hudson,07304
+424,340222004596,Midstreams Elementary School,71.93466,3,Ocean,08724
+425,340135001974,Belleville PS10,71.90875,3,Essex,07109
+426,340003500307,Learning Community Charter School,71.87847,3,Hudson,07304
+427,341365004496,Shongum School,71.82835,3,Morris,07869
+428,341221005042,Oldmans Township School,71.82565,3,Salem,08067
+429,340450003346,James Monroe Elementary School,71.799,3,Middlesex,08837
+430,340076703251,Jersey City Global Charter School,71.78772,3,Hudson,07307
+431,341659005110,Upper Pittsgrove School,71.7025,3,Salem,08343
+432,341713000815,Benedict A. Cucinella School,71.53357,3,Morris,07853
+433,340330004778,School #8,71.48652,3,Passaic,07014
+434,341377000750,Slocum Skewes School,71.47217,3,Bergen,07657
+435,341713004542,Flocktown-Kossmann Elementary School,71.41945,3,Morris,07853
+436,340132005120,Bedminster Township Public School,71.34955,3,Somerset,07921
+437,340150000270,Franklin Elementary School,71.31361,3,Bergen,07621
+438,341812003710,Mawbey Street Elementary School,71.22975,3,Middlesex,07095
+439,341620004114,Swimming River School,71.14053,3,Monmouth,07724
+440,340900005840,Lopatcong Elementary School,71.13969,3,Warren,08865
+441,340411003310,Memorial Elementary School,71.13772,3,Middlesex,08816
+442,341242000706,Stony Lane Elementary School,71.11887,3,Bergen,07652
+443,341689004142,Old Mill Elementary School,71.00475,3,Monmouth,08750
+444,340690002578,Harrison Township Elementary School,70.76418,3,Gloucester,08062
+445,340183001994,Demarest Elementary School,70.52814,3,Essex,07003
+446,340222004598,Osbornville Elementary School,70.37683,3,Ocean,08723
+447,340285002036,South End Elementary School,70.21027,3,Essex,07009
+448,340726000524,Ann Blanche Smith,70.18076,3,Bergen,07642
+449,340399000344,Honiss Elementary\Middle School,70.12868,3,Bergen,07628
+450,341575005406,Stillwater Township School,69.87335,3,Sussex,07875
+451,340300001454,Kingston Elementary School,69.86491,3,Camden,08034
+452,340255000728,Byram Lakes Elementary School,69.84108,3,Sussex,07874
+453,340336006027,Patrick McGaheran,69.7185,3,Hunterdon,08833
+454,341581001754,Stone Harbor Elementary School,69.66216,3,Cape May,08247
+455,340885000562,Washington School,69.56533,3,Bergen,07644
+456,340831004648,Lavallette Elementary School,69.53534,3,Ocean,08735
+457,340564003810,Joseph J Catena School,69.53338,3,Monmouth,07728
+458,340654003100,Alexander Elementary School,69.3989,3,Mercer,08690
+459,341689004144,West Belmar Elementary School,69.3633,3,Monmouth,07719
+460,341365004492,Ironia School,69.32427,3,Morris,07869
+461,340567005804,Frelinghuysen Township Elementary School,69.24295,3,Warren,07846
+462,341812003698,Indiana Avenue Elementary School,69.03858,3,Middlesex,08830
+463,341086004394,Mount Arlington Public School,68.86997,3,Morris,07856
+464,341728004978,Lafayette Elementary School,68.85038,3,Passaic,07470
+465,340999003394,Campbell Elementary School,68.80665,3,Middlesex,08840
+466,341269004910,School 19,68.74514,3,Passaic,07502
+467,341056002182,Northeast Elementary School,68.69805,3,Essex,07042
+468,341128000628,Bertrand F. Gibbs Elementary School,68.64838,3,Bergen,07646
+469,341521003616,Constable Elementary School,68.56942,3,Middlesex,08824
+470,340300001458,Thomas Paine Elementary School,68.49614,3,Camden,08034
+471,340513003782,Farmingdale Elementary,68.43011,3,Monmouth,07727
+472,341332004704,G. Harold Antrim Elementary School,68.41923,3,Ocean,08742
+473,341521000043,Indian Fields Elementary School,68.19912,3,Middlesex,08810
+474,341269005942,Norman S. Weir,67.99271,3,Passaic,07505
+475,341446000820,Washington School,67.9375,3,Bergen,07070
+476,340981000604,Memorial,67.92845,3,Bergen,07607
+477,340756003868,Newbury Elementary School,67.85526,3,Monmouth,07731
+478,340927003514,Memorial Elementary School,67.83822,3,Middlesex,08879
+479,340861005582,Number 10,67.80567,3,Union,07036
+480,341608000856,James Russell Lowell Elementary School,67.79462,3,Bergen,07666
+481,340300001462,Woodcrest Elementary School,67.60989,3,Camden,08003
+482,340654003132,Yardville Heights Elementary School,67.58816,3,Mercer,08620
+483,341413004520,Stony Brook Elementary School,67.50964,3,Morris,07866
+484,341464003598,Woodrow Wilson Elementary School,67.47,3,Middlesex,08872
+485,340129004570,Beach Haven School,67.452,3,Ocean,08008
+486,340564003820,Laura Donovan School,67.22627,3,Monmouth,07728
+487,341695004958,Haskell Elementary School,67.13599,3,Passaic,07420
+488,340924004302,Central Avenue School,67.0356,3,Morris,07940
+489,341323004688,Dr. Gerald H. Woehr Elementary School,67.0355,3,Ocean,08533
+490,340342001480,Mark Newbie Elementary School,66.9917,3,Camden,08108
+491,340258002022,Wilson Elementary School,66.95048,3,Essex,07006
+492,340630005820,Willow Grove Elementary School,66.82118,3,Warren,07840
+493,340654003118,Mercerville Elementary School,66.78251,3,Mercer,08619
+494,340114003748,Avon Elementary School,66.72769,3,Monmouth,07717
+495,340927003510,Leroy Gordon Cooper Elementary School,66.68603,3,Monmouth,07735
+496,341023000159,Millstone Township Elementary School,66.5009,3,Monmouth,08510
+497,340774000725,Elms Elementary School,66.39128,3,Ocean,08527
+498,340228005166,Adamsville Primary School,66.34673,3,Somerset,08807
+499,340756003860,Aldrich Elementary School,66.26651,3,Monmouth,07731
+500,341305003576,Randolphville Elementary School,66.242,3,Middlesex,08854
+501,340756006123,Memorial Elementary School,66.21908,3,Monmouth,07728
+502,340549005200,Franklin Park School,66.14004,3,Somerset,08823
+503,340315005450,Frank K. Hehnly,66.09877,3,Union,07066
+504,340073103022,Riverbank Charter School of Excellence,65.9175,3,Burlington,08554
+505,340327000310,School #5,65.8263,3,Bergen,07010
+506,340939003936,Taylor Mills School,65.78265,3,Monmouth,07726
+507,341305003568,Grandview Elementary School,65.76723,3,Middlesex,08854
+508,340843003012,Lebanon Borough School,65.73236,3,Hunterdon,08833
+509,340636001546,Stoy Elementary School,65.60459,3,Camden,08033
+510,340570002992,Frenchtown Elementary,65.58996,3,Hunterdon,08825
+511,340552005802,Franklin Township School,65.57801,3,Warren,07882
+512,340534005336,Frankford Township School,65.54114,3,Sussex,07826
+513,341081004384,Sussex Avenue School,65.47746,3,Morris,07960
+514,340555005344,Fredon Township School,65.4751,3,Sussex,07860
+515,341081000337,Normandy Park School,65.36511,3,Morris,07960
+516,340330004770,School #2,65.33483,3,Passaic,07013
+517,341833005116,Mary S. Shoemaker School,65.2662,3,Salem,08098
+518,340621000471,Greenwich School,65.23837,3,Warren,08886
+519,340927003520,Southwood Elementary School,65.2051,3,Middlesex,08857
+520,341056002168,Bradford Elementary School,65.06193,3,Essex,07042
+521,341143000638,Jefferson Elementary School,64.90375,3,Bergen,07031
+522,341050003446,Mill Lake,64.8335,3,Middlesex,08831
+523,341692000900,Frank W. Gavlak Elementary School,64.63916,3,Bergen,07057
+524,341155004832,Memorial Elementary School,64.58298,3,Passaic,07508
+525,340756003862,Ardena Elementary School,64.56748,3,Monmouth,07727
+526,341656004126,Newell Elementary School,64.52851,3,Monmouth,08501
+527,341674002452,Frederic N. Brown Elementary School,64.4193,3,Essex,07044
+528,341095001160,Hillside Elementary School,64.33655,3,Burlington,08054
+529,341650005752,Connecticut Farms Elementary,64.17269,3,Union,07083
+530,341081004386,Thomas Jefferson School,64.16671,3,Morris,07960
+531,340747005826,Hope Township School,64.15202,3,Warren,07844
+532,340471000382,Patrick M Villano School,64.10618,3,Bergen,07630
+533,341242000400,Midland Elementary School,64.06392,3,Bergen,07652
+534,340975003972,Strathmore Elementary School,63.954,3,Monmouth,07747
+535,340519002988,Robert Hunter Elementary School,63.94766,3,Hunterdon,08822
+536,341524000836,Memorial School,63.91218,3,Bergen,07606
+537,341728004984,Pines Lake Elementary School,63.88349,3,Passaic,07470
+538,341056002176,Hillside Elementary School,63.80104,3,Essex,07042
+539,340942003942,Manasquan Elementary School,63.70577,3,Monmouth,08736
+540,340498000418,John A. Forrest Elementary School,63.6442,3,Bergen,07410
+541,340633001536,Seventh Avenue,63.5419,3,Camden,08035
+542,340921003279,Memorial Campus,63.53396,3,Bergen,07071
+543,340801003008,Kingwood Township School,63.4384,3,Hunterdon,08825
+544,341341003192,Community Park School,63.39004,3,Mercer,08540
+545,341728004992,Theunis Dey Elementary School,63.24956,3,Passaic,07470
+546,340171005895,Thomas B. Conley Elementary School,63.14489,3,Hunterdon,08802
+547,341464003588,Harry S. Truman Elementary School,62.914,3,Middlesex,08859
+548,340432003064,Walter C. Black Elementary School,62.74612,3,Mercer,08520
+549,340195004156,John Hill School,62.72132,3,Morris,07005
+550,340660002996,Hampton Borough School,62.707,3,Hunterdon,08827
+551,341689004136,Central Elementary School,62.56385,3,Monmouth,07719
+552,341287002927,A.E. Burling Elementary School,62.33352,3,Camden,08105
+553,340927003498,Alan B. Shepard Elementary School,62.24108,3,Middlesex,08857
+554,341554003662,E Raymond Appleby Elementary School,62.23398,3,Middlesex,08884
+555,341572005404,Valley Road School,62.21891,3,Sussex,07874
+556,340203005926,Mac Farland Intermediate,62.14794,3,Burlington,08505
+557,340858004294,Lincoln Park Elementary School,62.10459,3,Morris,07035
+558,341782000918,Washington Elementary School,62.02206,3,Bergen,07676
+559,341434004532,Kennedy Elementary School,61.99778,3,Morris,07876
+560,340774004618,Howard C. Johnson Elementary School,61.88717,3,Ocean,08527
+561,340810004630,Lanoka Harbor Elementary School,61.713,3,Ocean,08734
+562,341089001600,Mary Bray Elementary School,61.63761,3,Camden,08059
+563,341728004976,John F. Kennedy Elementary School,61.56753,3,Passaic,07470
+564,341047002596,Holly Glen Elementary School,61.53706,3,Gloucester,08094
+565,340636001544,Clyde S. Jennings Elementary School,61.35719,3,Camden,08107
+566,340489006065,Richard L Rice School,61.2133,3,Burlington,08053
+567,340072703029,The Ethical Community Charter School,61.08237,3,Hudson,07306
+568,341053005380,Montague Township School,60.91476,3,Sussex,07827
+569,341527002628,South Harrison Township Elementary School,60.87274,3,Gloucester,08039
+570,340780004278,White Rock Elementary School,60.7399,3,Passaic,07438
+571,340783002812,Alfred Zampella School,60.71714,3,Hudson,07307
+572,340270001704,Cape May City Elementary School,60.70975,3,Cape May,08204
+573,340699004816,Washington Elementary School,60.51031,3,Passaic,07506
+574,340774004614,Sylvia Rosenauer Elementary School,59.98613,3,Ocean,08527
+575,340603000428,Union Valley Elementary School,59.97293,3,Camden,08081
+576,340783002810,Nicolaus Copernicus School,59.9282,3,Hudson,07307
+577,340327000312,School #6/Middle School,59.89725,3,Bergen,07010
+578,341368003836,Raritan Valley School,59.88336,3,Monmouth,07730
+579,341081004368,Alexander Hamilton,59.88195,3,Morris,07960
+580,340669004250,Bee Meadow School,59.85434,3,Morris,07981
+581,340927003522,Virgil I. Grissom Elementary School,59.85153,3,Middlesex,08857
+582,341095001166,Parkway Elementary School,59.80391,3,Burlington,08054
+583,341752005006,Marshall Hill Elementary School,59.69002,3,Passaic,07480
+584,340300001452,Joyce Kilmer Elementary School,59.65847,3,Camden,08002
+585,340927000195,William A. Miller Elementary School,59.64916,3,Middlesex,08857
+586,340654003128,University Heights Elementary School,59.6131,3,Mercer,08690
+587,340007906129,Environment Community Opportunity (ECO) Charter School,59.54156,3,Camden,08102
+588,341638002918,Jefferson Elementary School,59.39191,3,Hudson,07087
+589,341068000620,Robert L. Craig School,59.31605,3,Bergen,07074
+590,341812003708,Lynn Crest Elementary School,59.24516,3,Middlesex,07067
+591,341365004490,Fernbrook School,59.16297,3,Morris,07869
+592,341599002995,General Charles G. Harker School,59.15485,3,Gloucester,08085
+593,340636001550,Van Sciver Elementary School,59.07608,3,Camden,08033
+594,340603001518,Glendora Elementary School,59.00751,3,Camden,08029
+595,340630005818,Hatchery Hill Elementary School,58.98564,3,Warren,07840
+596,341485002902,Clarendon School,58.95625,3,Hudson,07094
+597,340432003056,ETHEL McKNIGHT ELEMENTARY SCHOOL,58.94536,3,Mercer,08520
+598,340885000552,Columbus School,58.90773,3,Bergen,07644
+599,341623004734,Hooper Avenue Elementary School,58.82363,3,Ocean,08753
+600,341368003832,School #958457620,13.46,1,AnyCounty,99999
+601,340450003364,School #1386106722,66.51,2,AnyCounty,99999
+602,341134002330,School #616933941,83.13,1,AnyCounty,99999
+603,340579005532,School #787462946,2.31,4,AnyCounty,99999
+604,340333002964,School #900004251,43.67,2,AnyCounty,99999
+605,341521006007,School #1419351744,56.76,1,AnyCounty,99999
+606,341812003688,School #890147230,80.91,2,AnyCounty,99999
+607,341761002484,School #1453133134,93.04,1,AnyCounty,99999
+608,341254003365,School #1473304041,78.22,4,AnyCounty,99999
+609,341587001666,School #1886853757,58.41,2,AnyCounty,99999
+610,341569004718,School #1709634992,26.38,4,AnyCounty,99999
+611,341197001750,School #828315934,88.28,4,AnyCounty,99999
+612,340372002974,School #517882370,35.16,3,AnyCounty,99999
+613,340228005180,School #265322467,6.78,1,AnyCounty,99999
+614,341206004068,School #1519855842,11.74,1,AnyCounty,99999
+615,341095006070,School #97392937,33.27,4,AnyCounty,99999
+616,340324005899,School #1102615529,45.94,1,AnyCounty,99999
+617,341143000642,School #535401372,47.08,2,AnyCounty,99999
+618,340222004588,School #655651929,35.57,0,AnyCounty,99999
+619,340441003774,School #177262167,98.34,1,AnyCounty,99999
+620,341011003986,School #1950822896,15.29,4,AnyCounty,99999
+621,340576000478,School #1363718999,46.01,2,AnyCounty,99999
+622,340846003018,School #728897904,73.55,2,AnyCounty,99999
+623,340466000372,School #515330749,65.88,0,AnyCounty,99999
+624,340450003336,School #1529984263,20.2,2,AnyCounty,99999
+625,341371003032,School #1452922729,79.83,3,AnyCounty,99999
+626,341269000353,School #771563549,3.06,1,AnyCounty,99999
+627,340444000362,School #1572036885,73.24,4,AnyCounty,99999
+628,340738003004,School #677264092,5.48,2,AnyCounty,99999
+629,341431005672,School #381177399,32.93,4,AnyCounty,99999
+630,340927003504,School #832155251,46.44,3,AnyCounty,99999
+631,341752005004,School #1611915837,63.39,2,AnyCounty,99999
+632,341812003718,School #602118502,96.03,0,AnyCounty,99999
+633,340876000544,School #1852919388,61.88,2,AnyCounty,99999
+634,340393004216,School #1446544765,85.6,3,AnyCounty,99999
+635,341413004516,School #740867470,28.82,1,AnyCounty,99999
+636,341791005894,School #169411893,9.84,1,AnyCounty,99999
+637,340654003120,School #1182210164,76.89,0,AnyCounty,99999
+638,341005003406,School #1557469820,11.0,3,AnyCounty,99999
+639,341623004740,School #1696301191,58.87,0,AnyCounty,99999
+640,341680001924,School #1824576868,49.46,3,AnyCounty,99999
+641,340945000031,School #630276903,9.17,3,AnyCounty,99999
+642,341752005010,School #536954551,75.44,2,AnyCounty,99999
+643,341308002620,School #1208656574,92.38,2,AnyCounty,99999
+644,340615001848,School #1571023907,12.9,4,AnyCounty,99999
+645,340807005832,School #731075962,52.69,0,AnyCounty,99999
+646,341230005846,School #1785116314,79.48,2,AnyCounty,99999
+647,341188002382,School #442696223,20.41,2,AnyCounty,99999
+648,340927003512,School #988681988,34.61,3,AnyCounty,99999
+649,341431005666,School #361048016,19.51,4,AnyCounty,99999
+650,340466000374,School #1535550079,69.15,4,AnyCounty,99999
+651,341680000807,School #862692886,40.05,4,,99999
+652,341134002274,School #864364682,44.87,0,AnyCounty,99999
+653,341011003992,School #1780675400,7.33,4,AnyCounty,99999
+654,341752005012,School #861575548,62.22,3,AnyCounty,99999
+655,340489000056,School #1164909856,93.24,2,AnyCounty,99999
+656,340885000564,School #704274983,49.02,2,AnyCounty,99999
+657,341215005390,School #923255046,60.8,1,AnyCounty,99999
+658,341287001638,School #914243717,21.33,0,AnyCounty,99999
+659,341329004698,School #177682680,96.39,0,AnyCounty,99999
+660,341134002228,School #1869900459,48.47,4,AnyCounty,99999
+661,340576000480,School #1619132194,36.8,0,AnyCounty,99999
+662,341485002904,School #861399994,55.42,4,AnyCounty,99999
+663,340186004756,School #1902360415,78.49,2,AnyCounty,99999
+664,340813005374,School #747354554,32.96,2,AnyCounty,99999
+665,340126002730,School #1470814841,15.23,3,AnyCounty,99999
+666,340654003116,School #1981242189,59.39,0,AnyCounty,99999
+667,341707002646,School #15843333,83.45,4,AnyCounty,99999
+668,341413004510,School #1792655840,67.02,3,AnyCounty,99999
+669,341305003564,School #1491307680,67.03,2,AnyCounty,99999
+670,341623004746,School #305381052,40.11,0,AnyCounty,99999
+671,340071502923,School #1133604831,42.66,3,AnyCounty,99999
+672,340076903048,School #2010970909,63.88,4,AnyCounty,99999
+673,340546002990,School #1707931342,8.78,0,AnyCounty,99999
+674,341623004730,School #1315892377,31.86,4,AnyCounty,99999
+675,341488001240,School #318571552,81.33,4,AnyCounty,99999
+676,340456000092,School #400862616,16.29,3,AnyCounty,99999
+677,340891004656,School #1431291522,51.7,1,AnyCounty,99999
+678,341674002454,School #1367334087,68.2,2,AnyCounty,99999
+679,340312001028,School #1416424552,12.81,3,AnyCounty,99999
+680,341194001604,School #549663127,98.15,1,AnyCounty,99999
+681,341005003408,School #1763217177,71.8,2,AnyCounty,99999
+682,340783002792,School #770079666,54.93,3,AnyCounty,99999
+683,341650000247,School #1388523071,32.24,2,AnyCounty,99999
+684,340699004812,School #303267943,94.69,1,AnyCounty,99999
+685,340432003062,School #1473693817,93.99,0,AnyCounty,99999
+686,340096000028,School #1957318505,38.19,3,AnyCounty,99999
+687,340774004622,School #1927565386,77.94,4,AnyCounty,99999
+688,340432003058,School #510220587,29.97,4,AnyCounty,99999
+689,340126002720,School #1102193961,13.93,0,AnyCounty,99999
+690,341542006035,School #532911455,45.95,3,AnyCounty,99999
+691,340489000058,School #1655750454,62.37,0,AnyCounty,99999
+692,340459000806,School #1303401087,54.96,2,AnyCounty,99999
+693,341464003586,School #1231729515,0.89,2,AnyCounty,99999
+694,341386004948,School #1958330259,30.42,2,AnyCounty,99999
+695,340300001430,School #1345604592,56.81,1,AnyCounty,99999
+696,341692000902,School #1593480629,95.03,0,AnyCounty,99999
+697,340717003380,School #1378496368,16.38,1,AnyCounty,99999
+698,341623000345,School #1720245342,4.2,4,AnyCounty,99999
+699,340282003276,School #1972725617,73.45,1,AnyCounty,99999
+700,341179000217,School #890655273,38.74,2,AnyCounty,99999
+701,340075903196,School #597342855,62.61,2,AnyCounty,99999
+702,340603005995,School #1444669416,99.06,3,AnyCounty,99999
+703,341650005748,School #1587100850,65.88,2,AnyCounty,99999
+704,340330004784,School #916370751,59.83,2,AnyCounty,99999
+705,341647005947,School #408704001,17.55,0,AnyCounty,99999
+706,340005100339,School #1105619938,55.53,0,AnyCounty,99999
+707,341146002894,School #438743983,33.8,4,AnyCounty,99999
+708,340216000199,School #1522320428,53.37,3,AnyCounty,99999
+709,340840006069,School #533343361,45.68,4,AnyCounty,99999
+710,340735002764,School #216741526,26.01,1,AnyCounty,99999
+711,341269006099,School #1549231277,9.06,0,AnyCounty,99999
+712,341764005018,School #1566722425,17.65,3,AnyCounty,99999
+713,340489001072,School #1150789932,89.47,4,AnyCounty,99999
+714,341335004934,School #2098919484,29.5,2,AnyCounty,99999
+715,340393004220,School #178818259,90.61,3,AnyCounty,99999
+716,340783002784,School #908524228,8.1,1,AnyCounty,99999
+717,340183001996,School #1479912316,88.74,3,AnyCounty,99999
+718,340576000468,School #1487819779,54.63,2,AnyCounty,99999
+719,341635004120,School #1591297286,85.11,1,AnyCounty,99999
+720,340300001446,School #386027352,35.94,0,AnyCounty,99999
+721,341368003834,School #1286377643,42.17,3,AnyCounty,99999
+722,340468005032,School #828103247,53.87,2,AnyCounty,99999
+723,340429000474,School #1674257585,27.54,3,AnyCounty,99999
+724,340459005522,School #163177810,93.14,1,AnyCounty,99999
+725,340330004768,School #814763678,67.2,4,AnyCounty,99999
+726,341005003414,School #975146498,98.65,0,AnyCounty,99999
+727,340363003764,School #508125762,45.02,3,AnyCounty,99999
+728,340519006086,School #1613090959,10.32,4,AnyCounty,99999
+729,340066000006,School #585718256,96.96,1,AnyCounty,99999
+730,341743002666,School #2037951691,29.32,3,AnyCounty,99999
+731,341107000172,School #926647134,74.6,4,AnyCounty,99999
+732,340393004214,School #1157938633,13.92,2,AnyCounty,99999
+733,340008200569,School #1175080569,92.47,3,AnyCounty,99999
+734,340783002814,School #1821005848,65.02,3,AnyCounty,99999
+735,341167001742,School #1124531791,76.63,3,AnyCounty,99999
+736,341701005884,School #1458326087,51.28,0,AnyCounty,99999
+737,341650005754,School #958376520,62.9,2,AnyCounty,99999
+738,341512003604,School #1378552431,89.76,1,AnyCounty,99999
+739,340927003518,School #1232219844,2.51,1,AnyCounty,99999
+740,340105001302,School #1800328027,61.38,2,AnyCounty,99999
+741,340636001542,School #2142595491,51.79,2,AnyCounty,99999
+742,340996001594,School #1039812307,26.25,1,AnyCounty,99999
+743,341011004002,School #2051780308,54.76,4,AnyCounty,99999
+744,340078103335,School #987261596,82.38,3,AnyCounty,99999
+745,341308002626,School #1365741994,75.13,0,AnyCounty,99999
+746,340540005342,School #629240532,79.37,2,AnyCounty,99999
+747,341608000852,School #660213039,29.35,3,AnyCounty,99999
+748,341350005086,School #687298874,7.45,3,AnyCounty,99999
+749,341287001636,School #630727241,9.75,1,AnyCounty,99999
+0,341707002650,School #1740683975,78.18,3,AnyCounty,99999
+1,340090005324,School #723199138,81.55,3,AnyCounty,99999
+2,341149003488,School #174139423,39.0,1,AnyCounty,99999
+3,340081005028,School #1977609943,21.55,4,AnyCounty,99999
+4,340678005356,School #206686653,88.19,1,AnyCounty,99999
+5,341818002698,School #2050691568,85.89,4,AnyCounty,99999
+6,341623006037,School #803411594,97.64,3,AnyCounty,99999
+7,340462002538,School #1481966803,61.62,4,AnyCounty,99999
+8,341647000461,School #1581009701,4.37,1,AnyCounty,99999
+9,340954005842,School #1623370545,74.51,0,AnyCounty,99999
+10,341752004998,School #1846397900,89.51,2,AnyCounty,99999
+11,340126002710,School #239805219,28.04,1,AnyCounty,99999
+12,341140005388,School #28604099,83.83,1,AnyCounty,99999
+13,340627000498,School #855691474,54.49,1,AnyCounty,99999
+14,340077603299,School #993232536,26.26,1,AnyCounty,99999
+15,341380000760,School #985090278,67.08,3,AnyCounty,99999
+16,341812003726,School #739667649,20.46,4,AnyCounty,99999
+17,340402003288,School #309255327,86.34,2,AnyCounty,99999
+18,340780004266,School #33010119,78.99,2,AnyCounty,99999
+19,340984001114,School #407509730,92.4,1,AnyCounty,99999
+20,340330004788,School #253574694,72.55,2,AnyCounty,99999
+21,340603001520,School #1301375464,0.83,1,AnyCounty,99999
+22,340330004772,School #2012200738,31.87,4,AnyCounty,99999
+23,340135001972,School #421136071,40.8,2,AnyCounty,99999
+24,340183002000,School #1564016026,12.16,1,AnyCounty,99999
+25,340789002876,School #1463483075,59.25,4,AnyCounty,99999
+26,340150000272,School #1807758436,93.23,0,AnyCounty,99999
+27,340720003846,School #1694849025,66.47,3,AnyCounty,99999
+28,341011003988,School #1902224099,87.86,0,AnyCounty,99999
+29,340008300573,School #1100096108,98.33,4,AnyCounty,99999
+30,341125001168,School #113434415,76.98,3,AnyCounty,99999
+31,340840003156,School #918472369,70.92,3,AnyCounty,99999
+32,340459000825,School #2016364841,90.6,2,AnyCounty,99999
+33,340654003124,School #111340403,5.16,4,AnyCounty,99999
+34,340456000051,School #1052721207,35.03,3,AnyCounty,99999
+35,340774004620,School #1034124045,21.49,4,AnyCounty,99999
+36,340246000260,School #1247000170,61.25,0,AnyCounty,99999
+37,341011003994,School #775799905,89.2,0,AnyCounty,99999
+38,341281001216,School #422146907,17.35,0,AnyCounty,99999
+39,341806001698,School #1514379922,70.4,2,AnyCounty,99999
+40,340279000813,School #1077568562,34.61,2,AnyCounty,99999
+41,340007000529,School #1026735413,30.66,1,AnyCounty,99999
+42,341449000828,School #1756293851,49.74,1,AnyCounty,99999
+43,341311005084,School #1434373707,61.24,0,AnyCounty,99999
+44,340642001088,School #817682163,99.32,4,AnyCounty,99999
+45,340657000138,School #526851271,43.66,3,AnyCounty,99999
+46,341431005668,School #111660939,53.6,3,AnyCounty,99999
+47,341434004536,School #1057813344,95.65,0,AnyCounty,99999
+48,341671005426,School #1305389851,96.84,4,AnyCounty,99999
+49,340117001308,School #1608438817,91.19,1,AnyCounty,99999
+50,341596005412,School #2060061855,89.92,2,AnyCounty,99999
+51,341149003482,School #1731319061,23.6,1,AnyCounty,99999
+52,341095001158,School #417480509,7.69,0,AnyCounty,99999
+53,340069002956,School #1319850538,21.53,4,AnyCounty,99999
+54,341608000860,School #124897701,63.61,2,AnyCounty,99999
+55,340918000703,School #1737040449,58.37,0,AnyCounty,99999
+56,341752005008,School #1313839529,22.09,1,AnyCounty,99999
+57,341638002916,School #1175726332,41.01,1,AnyCounty,99999
+58,340071702925,School #779080471,26.68,0,AnyCounty,99999
+59,340627000502,School #187033782,84.26,0,AnyCounty,99999
+60,340486000102,School #947063228,33.78,0,AnyCounty,99999
+61,340003400305,School #142614261,55.89,4,AnyCounty,99999
+62,341449000826,School #1490079444,37.72,3,AnyCounty,99999
+63,341464003584,School #1177478275,53.69,2,AnyCounty,99999
+64,340549005196,School #1069034744,67.85,0,AnyCounty,99999
+65,340390002524,School #1153591374,84.95,4,AnyCounty,99999
+66,341761002488,School #1240977971,14.1,4,AnyCounty,99999
+67,341812003712,School #284492491,36.13,4,AnyCounty,99999
+68,340159001324,School #89695448,1.19,0,AnyCounty,99999
+69,340078503390,School #1815788360,25.1,4,AnyCounty,99999
+70,341758002950,School #750391040,25.5,1,AnyCounty,99999
+71,341761002494,School #99109205,68.71,2,AnyCounty,99999
+72,341812003690,School #294534233,76.66,4,AnyCounty,99999
+73,340618002574,School #433085352,93.03,4,AnyCounty,99999
+74,340861005578,School #30161305,76.42,0,AnyCounty,99999
+75,340390002520,School #1193080658,28.46,0,AnyCounty,99999
+76,340789002868,School #591930321,95.68,1,AnyCounty,99999
+77,340810004628,School #2093150331,13.53,3,AnyCounty,99999
+78,340549005206,School #2002111585,20.99,2,AnyCounty,99999
+79,341812003714,School #2117826037,15.11,2,AnyCounty,99999
+80,341740001762,School #885573267,8.0,2,AnyCounty,99999
+81,341518000465,School #2058765986,38.0,3,AnyCounty,99999
+82,340810006050,School #635123507,34.99,4,AnyCounty,99999
+83,340573000108,School #1988613006,90.97,3,AnyCounty,99999
+84,340126002712,School #1464306110,39.91,2,AnyCounty,99999
+85,340789002874,School #1505829909,74.16,4,AnyCounty,99999
+86,340004600329,School #1641974652,75.81,2,AnyCounty,99999
+87,340459000245,School #75526499,7.97,0,AnyCounty,99999
+88,340222004600,School #1344268734,73.48,0,AnyCounty,99999
+89,341638003215,School #40996721,45.15,1,AnyCounty,99999
+90,341146002886,School #1876040391,62.94,2,AnyCounty,99999
+91,340074803144,School #1608152990,98.85,3,AnyCounty,99999
+92,340861005574,School #1758000368,65.71,1,AnyCounty,99999
+93,340222004584,School #1135489016,27.52,2,AnyCounty,99999
+94,340624002734,School #816317889,96.04,3,AnyCounty,99999
+95,340078703387,School #1451556415,77.81,4,AnyCounty,99999
+96,340156004574,School #89395899,6.68,1,AnyCounty,99999
+97,341638000715,School #391500890,88.86,1,AnyCounty,99999
+98,341158001178,School #1145075472,13.37,3,AnyCounty,99999
+99,341785000220,School #1105442915,42.58,1,AnyCounty,99999
+100,340774000463,School #1431979428,79.92,2,AnyCounty,99999
+101,341812003692,School #1448907749,59.14,2,AnyCounty,99999
+102,341800001288,School #804792883,77.6,0,AnyCounty,99999
+103,341407000804,School #756628376,96.72,4,AnyCounty,99999
+104,340183001992,School #1628594201,93.03,0,AnyCounty,99999
+105,340945004664,School #1994691566,42.79,0,AnyCounty,99999
+106,340180005800,School #960518773,68.39,2,AnyCounty,99999
+107,341134002298,School #222930010,11.96,2,AnyCounty,99999
+108,340654003122,School #1662749243,53.86,4,AnyCounty,99999
+109,341602001250,School #1829050430,99.0,0,AnyCounty,99999
+110,340603001514,School #632623587,39.95,3,AnyCounty,99999
+111,341812003686,School #183785889,79.81,4,AnyCounty,99999
+112,340783002828,School #591785139,29.81,3,AnyCounty,99999
+113,340573006028,School #846513834,97.41,1,AnyCounty,99999
+114,340004700330,School #686697383,20.23,3,AnyCounty,99999
+115,341203004678,School #1670777981,32.36,2,AnyCounty,99999
+116,341299001642,School #672099488,82.42,2,AnyCounty,99999
+117,340489001070,School #1637678142,7.92,0,AnyCounty,99999
+118,341509005296,School #1924085640,5.97,2,AnyCounty,99999
+119,340840003164,School #1271736885,35.93,3,AnyCounty,99999
+120,340837001856,School #151233768,84.69,2,AnyCounty,99999
+121,340126002718,School #1724027784,71.72,0,AnyCounty,99999
+122,341623004748,School #110693194,66.37,0,AnyCounty,99999
+123,341110002602,School #1460212756,85.85,0,AnyCounty,99999
+124,340975003968,School #1962605523,28.29,2,AnyCounty,99999
+125,341002000033,School #1790949960,89.52,3,AnyCounty,99999
+126,341134003061,School #1556924432,67.86,1,AnyCounty,99999
+127,340330004792,School #569104782,74.86,4,AnyCounty,99999
+128,340076903010,School #810253093,94.26,0,AnyCounty,99999
+129,341047002600,School #285188480,85.69,4,AnyCounty,99999
+130,341047000397,School #1955183855,33.95,3,AnyCounty,99999
+131,341029003434,School #2112309960,61.65,0,AnyCounty,99999
+132,340330004786,School #473965379,97.5,2,AnyCounty,99999
+133,340072903027,School #844381125,13.21,4,AnyCounty,99999
+134,341116004050,School #1550577018,79.57,2,AnyCounty,99999
+135,341146002892,School #2020313799,59.67,3,AnyCounty,99999
+136,340636001548,School #481302428,65.9,0,AnyCounty,99999
+137,341731002932,School #605073502,82.07,4,AnyCounty,99999
+138,341788004560,School #394932600,27.96,3,AnyCounty,99999
+139,341815002694,School #1701474590,9.7,1,AnyCounty,99999
+140,340126002728,School #1562599499,26.58,2,AnyCounty,99999
+141,340603001512,School #1059491417,56.44,1,AnyCounty,99999
+142,340141003750,School #1002626804,60.26,2,AnyCounty,99999
+143,341149003484,School #264063254,59.12,4,AnyCounty,99999
+144,340189002960,School #2043136302,4.64,4,AnyCounty,99999
+145,340222000166,School #725989708,14.58,4,AnyCounty,99999
+146,341122003476,School #504652856,35.39,1,AnyCounty,99999
+147,340735000065,School #1730116313,52.55,3,AnyCounty,99999
+148,341326000366,School #2022390698,47.45,4,AnyCounty,99999
+149,340783002788,School #592553623,66.77,1,AnyCounty,99999
+150,341119004426,School #246988734,4.35,3,AnyCounty,99999
+151,341092001150,School #824420587,90.95,3,AnyCounty,99999
+152,340600000129,School #1768855481,94.87,2,AnyCounty,99999
+153,341773001256,School #1680840720,95.79,2,AnyCounty,99999
+154,341638002922,School #914935302,39.68,4,AnyCounty,99999
+155,340008700735,School #1178650516,17.08,1,AnyCounty,99999
+156,341707005922,School #1826318047,95.12,0,AnyCounty,99999
+157,340135001970,School #725712934,59.12,4,AnyCounty,99999
+158,340072005788,School #133812177,97.82,2,AnyCounty,99999
+159,341380000257,School #468381245,15.87,3,AnyCounty,99999
+160,340390002518,School #1010274324,14.57,4,AnyCounty,99999
+161,341623004744,School #1759845377,68.76,2,AnyCounty,99999
+162,340627000504,School #510138041,17.89,3,AnyCounty,99999
+163,341410004504,School #444047864,91.59,1,AnyCounty,99999
+164,340945004662,School #297708376,21.02,1,AnyCounty,99999
+165,340162001332,School #181572114,79.13,0,AnyCounty,99999
+166,341380000756,School #1731786624,16.42,0,AnyCounty,99999
+167,340930001592,School #1306514690,32.54,4,AnyCounty,99999
+168,340466000376,School #1118173428,19.63,2,AnyCounty,99999
+169,340423005901,School #1611025013,22.21,3,AnyCounty,99999
+170,340603001524,School #1433260381,90.46,2,AnyCounty,99999
+171,340654003104,School #812261461,22.79,2,AnyCounty,99999
+172,340076403256,School #145450898,19.01,4,AnyCounty,99999
+173,340861005572,School #1442561270,30.12,2,AnyCounty,99999
+174,341638002920,School #1652517849,64.06,2,AnyCounty,99999
+175,340549005210,School #283135114,98.85,1,AnyCounty,99999
+176,340330004782,School #1123342351,5.07,0,AnyCounty,99999
+177,341236000684,School #1630417033,51.01,1,AnyCounty,99999
+178,340135001964,School #1940356926,93.82,3,AnyCounty,99999
+179,340234000002,School #410069385,11.79,2,AnyCounty,99999
+180,340330004790,School #1374294741,81.85,1,AnyCounty,99999
+181,341374004080,School #550257337,87.05,0,AnyCounty,99999
+182,340654003126,School #6239326,1.77,4,AnyCounty,99999
+183,340789002878,School #369659110,21.7,1,AnyCounty,99999
+184,340492003086,School #575142528,63.08,4,AnyCounty,99999
+185,340459005508,School #787754656,11.93,1,AnyCounty,99999
+186,340603001508,School #539478155,56.5,2,AnyCounty,99999
+187,340861005580,School #140910667,31.7,0,AnyCounty,99999
+188,341500001660,School #7150536,43.13,0,AnyCounty,99999
+189,340138001318,School #1855391463,81.78,2,AnyCounty,99999
+190,340006100378,School #2121741202,35.69,2,AnyCounty,99999
+191,341293003540,School #195224526,20.13,0,AnyCounty,99999
+192,340528000104,School #1466761832,32.24,3,AnyCounty,99999
+193,340156004576,School #971715862,73.53,1,AnyCounty,99999
+194,341806001692,School #1608087644,60.43,2,AnyCounty,99999
+195,340071803014,School #2021667735,95.32,3,AnyCounty,99999
+196,340222004592,School #1547938597,58.13,3,AnyCounty,99999
+197,341707002644,School #40994694,45.38,1,AnyCounty,99999
+198,340084005790,School #446866617,87.62,3,AnyCounty,99999
+199,340405004606,School #1270862138,81.35,4,AnyCounty,99999
+200,341533002440,School #1240317215,54.12,4,AnyCounty,99999
+201,340912005068,School #624975823,19.86,0,AnyCounty,99999
+202,341353005644,School #1950213009,59.35,3,AnyCounty,99999
+203,341803005786,School #1574509041,9.94,0,AnyCounty,99999
+204,340543002550,School #131264426,82.47,1,AnyCounty,99999
+205,341758002942,School #2023527578,93.62,0,AnyCounty,99999
+206,340330004776,School #1990880109,6.95,2,AnyCounty,99999
+207,341728004988,School #1430972901,88.27,2,AnyCounty,99999
+208,340789002870,School #1090290549,27.47,1,AnyCounty,99999
+209,340792005552,School #74198718,42.44,2,AnyCounty,99999
+210,340795003890,School #879583473,91.69,3,AnyCounty,99999
+211,341413004518,School #1071995954,31.73,0,AnyCounty,99999
+212,340573006088,School #851473093,73.27,0,AnyCounty,99999
+213,340126002716,School #1506890723,35.93,2,AnyCounty,99999
+214,341134002326,School #882878529,97.66,3,AnyCounty,99999
+215,340687002740,School #916355065,65.69,1,AnyCounty,99999
+216,340076503254,School #1713992948,84.99,1,AnyCounty,99999
+217,340861005570,School #1994604136,1.91,3,AnyCounty,99999
+218,340120000950,School #1409092874,27.38,0,AnyCounty,99999
+219,341779002684,School #1784062453,47.61,1,AnyCounty,99999
+220,340138001320,School #1600561846,84.22,0,AnyCounty,99999
+221,341293000152,School #1936020337,16.4,1,AnyCounty,99999
+222,340681005824,School #817558517,66.21,1,AnyCounty,99999
+223,341116004052,School #1324604579,80.84,1,AnyCounty,99999
+224,340144005798,School #212000191,88.13,1,AnyCounty,99999
+225,341647004564,School #2023124645,60.95,2,AnyCounty,99999
+226,341011004006,School #1733547343,63.29,2,AnyCounty,99999
+227,340378000123,School #1332283237,24.86,3,AnyCounty,99999
+228,340903005034,School #1453600080,85.18,1,AnyCounty,99999
+229,340075503187,School #1388957527,38.27,2,AnyCounty,99999
+230,340369001032,School #773126658,85.89,3,AnyCounty,99999
+231,340004900336,School #729676940,1.51,1,AnyCounty,99999
+232,340870004650,School #1838158424,97.85,1,AnyCounty,99999
+233,341623004732,School #1870119197,20.99,3,AnyCounty,99999
+234,341626004954,School #605044208,2.26,4,AnyCounty,99999
+235,341293003534,School #199163987,67.41,3,AnyCounty,99999
+236,341812003720,School #1210577823,26.35,2,AnyCounty,99999
+237,340222004586,School #764108496,38.4,1,AnyCounty,99999
+238,340783002846,School #1003633381,38.73,4,AnyCounty,99999
+239,340627000500,School #496979342,24.96,1,AnyCounty,99999
+240,340459005512,School #2071488911,57.69,1,AnyCounty,99999
+241,340573006089,School #731504551,9.65,4,AnyCounty,99999
+242,341758002946,School #1357177563,74.02,4,AnyCounty,99999
+243,341647003007,School #1255272418,98.89,3,AnyCounty,99999
+244,341680005921,School #1332335367,13.33,1,AnyCounty,99999
+245,341680001916,School #1655330839,11.6,0,AnyCounty,99999
+246,340558003788,School #1292264441,23.0,3,AnyCounty,99999
+247,340423000273,School #2131911636,42.3,0,AnyCounty,99999
+248,340203005925,School #1633670852,73.02,0,AnyCounty,99999
+249,341206004064,School #2124545470,7.96,2,AnyCounty,99999
+250,340282000451,School #183903821,91.44,1,AnyCounty,99999
+251,341725005924,School #528448305,67.39,2,AnyCounty,99999
+252,341293003544,School #1794128113,72.98,2,AnyCounty,99999
+253,340474003063,School #665388816,46.95,3,AnyCounty,99999
+254,340126000001,School #1378282730,5.91,3,AnyCounty,99999
+255,340651000015,School #608139975,65.0,2,AnyCounty,99999
+256,340492003076,School #2020493769,75.22,3,AnyCounty,99999
+257,340423002046,School #1493154029,78.49,4,AnyCounty,99999
+258,340459005518,School #1679886956,45.6,3,AnyCounty,99999
+259,340750001854,School #2077443149,45.03,1,AnyCounty,99999
+260,340645005904,School #482778940,49.86,0,AnyCounty,99999
+261,340963005244,School #988517060,17.96,3,AnyCounty,99999
+262,340456000086,School #320050594,92.38,3,AnyCounty,99999
+263,340126002722,School #236834661,99.36,1,AnyCounty,99999
+264,341287001634,School #1344373682,12.16,4,AnyCounty,99999
+265,341239001190,School #1335779750,60.94,1,AnyCounty,99999
+266,340423000134,School #1834813629,25.1,4,AnyCounty,99999
+267,341758002944,School #1193496951,44.95,3,AnyCounty,99999
+268,340135001962,School #1588820212,1.1,4,AnyCounty,99999
+269,340174000952,School #6633232,41.6,4,AnyCounty,99999
+270,340076603265,School #1455547569,95.78,2,AnyCounty,99999
+271,341269004926,School #115652099,0.58,3,AnyCounty,99999
+272,340135001966,School #976274645,96.96,4,AnyCounty,99999
+273,340777003388,School #1131752850,21.1,1,AnyCounty,99999
+274,340366001826,School #655296921,68.68,3,AnyCounty,99999
+275,340342001482,School #1503201219,23.61,3,AnyCounty,99999
+276,341293000404,School #618767233,68.14,4,AnyCounty,99999
+277,341707002654,School #1515391842,68.37,0,AnyCounty,99999
+278,340783002842,School #1235900039,80.87,3,AnyCounty,99999
+279,341428005652,School #2040597569,16.7,1,AnyCounty,99999
+280,340459005504,School #989416618,5.41,4,AnyCounty,99999
+281,341134002222,School #1662123716,89.6,2,AnyCounty,99999
+282,341797001776,School #185999775,49.47,3,AnyCounty,99999
+283,341287001632,School #1145398426,50.63,2,AnyCounty,99999
+284,340558003792,School #1944147650,94.07,2,AnyCounty,99999
+285,340729005544,School #962906979,64.27,0,AnyCounty,99999
+286,340861005564,School #917395868,76.42,0,AnyCounty,99999
+287,340007600483,School #1127352343,78.77,4,AnyCounty,99999
+288,341122005940,School #848631598,43.89,3,AnyCounty,99999
+289,341164005260,School #1860764371,63.67,0,AnyCounty,99999
+290,341632004750,School #109278900,70.06,3,AnyCounty,99999
+291,340420002732,School #1594896046,88.51,2,AnyCounty,99999
+292,340330006132,School #923747143,17.56,0,AnyCounty,99999
+293,341638002912,School #1280642625,90.12,3,AnyCounty,99999
+294,340492003082,School #299405691,61.05,0,AnyCounty,99999
+295,340126002714,School #1477443193,94.6,2,AnyCounty,99999
+296,341227002404,School #1854592722,26.97,0,AnyCounty,99999
+297,340861005562,School #1163578847,96.6,4,AnyCounty,99999
+298,340783002806,School #1482301205,19.64,3,AnyCounty,99999
+299,340522001086,School #1053883217,43.37,0,AnyCounty,99999
+300,341638002924,School #93341098,71.98,4,AnyCounty,99999
+301,341815002692,School #420751448,24.0,1,AnyCounty,99999
+302,340237001340,School #662918974,95.56,2,AnyCounty,99999
+303,340744005370,School #1356261499,53.07,1,AnyCounty,99999
+304,340654003106,School #698366693,76.29,0,AnyCounty,99999
+305,340435001056,School #58166787,34.74,2,AnyCounty,99999
+306,341269004882,School #195826207,69.26,4,AnyCounty,99999
+307,341299001644,School #200040228,10.55,4,AnyCounty,99999
+308,341353005646,School #2070292211,4.9,4,AnyCounty,99999
+309,340330004774,School #309071384,91.54,0,AnyCounty,99999
+310,340963000175,School #1308889713,91.61,3,AnyCounty,99999
+311,341227002402,School #959566292,69.39,3,AnyCounty,99999
+312,340096000016,School #874692197,19.31,2,AnyCounty,99999
+313,341539000236,School #1439723237,9.19,3,AnyCounty,99999
+314,340243000976,School #1735858741,83.96,3,AnyCounty,99999
+315,340966001106,School #1193696654,88.12,1,AnyCounty,99999
+316,341623004738,School #736595269,18.81,4,AnyCounty,99999
+317,340096003259,School #1248653787,35.17,1,AnyCounty,99999
+318,340459003197,School #924666726,30.82,4,AnyCounty,99999
+319,340474000390,School #1535714973,99.68,3,AnyCounty,99999
+320,340156004578,School #1710507939,75.45,0,AnyCounty,99999
+321,341353005640,School #978216603,38.11,0,AnyCounty,99999
+322,341134002368,School #833599252,57.33,3,AnyCounty,99999
+323,341668000407,School #649703510,52.4,3,AnyCounty,99999
+324,340648005352,School #1822965186,37.86,0,AnyCounty,99999
+325,340549005202,School #196699049,95.14,3,AnyCounty,99999
+326,341134002338,School #1861649795,67.89,0,AnyCounty,99999
+327,340096000012,School #1324851316,11.51,3,AnyCounty,99999
+328,341503000208,School #334039658,12.63,1,AnyCounty,99999
+329,340002100283,School #2128521374,23.59,3,AnyCounty,99999
+330,340447001062,School #1340796626,25.62,0,AnyCounty,99999
+331,341113004028,School #700358624,94.1,1,AnyCounty,99999
+332,340072403011,School #93916631,24.25,3,AnyCounty,99999
+333,341812003706,School #1279845794,16.92,2,AnyCounty,99999
+334,340423002054,School #1499981477,93.76,1,AnyCounty,99999
+335,341809001780,School #673977998,57.69,4,AnyCounty,99999
+336,341434004528,School #1282347899,4.79,1,AnyCounty,99999
+337,340915001728,School #1211610985,8.46,1,AnyCounty,99999
+338,340507000438,School #125881680,98.15,1,AnyCounty,99999
+339,340576000472,School #794011564,15.09,3,AnyCounty,99999
+340,340183002004,School #763086625,25.79,0,AnyCounty,99999
+341,341758002948,School #342292845,55.96,4,AnyCounty,99999
+342,340459005962,School #450053382,53.74,3,AnyCounty,99999
+343,340390002528,School #1866895902,65.9,1,AnyCounty,99999
+344,340075103180,School #1642693330,35.64,1,AnyCounty,99999
+345,340459005482,School #1724642258,24.12,0,AnyCounty,99999
+346,340834001572,School #1725992620,14.57,4,AnyCounty,99999
+347,340423002058,School #1639597924,70.12,3,AnyCounty,99999
+348,341284005054,School #861743398,13.54,2,AnyCounty,99999
+349,341164005268,School #1823650098,21.09,0,AnyCounty,99999
+350,341320000198,School #853706060,40.58,4,AnyCounty,99999
+351,341281001222,School #2095214821,95.36,0,AnyCounty,99999
+352,341032001880,School #204821948,71.43,1,AnyCounty,99999
+353,340074503137,School #139182711,96.23,2,AnyCounty,99999
+354,341269004890,School #1212519597,70.02,2,AnyCounty,99999
+355,341146002890,School #1336976198,67.74,4,AnyCounty,99999
+356,341269004916,School #199671651,94.89,4,AnyCounty,99999
+357,340213003752,School #1260123161,97.55,4,AnyCounty,99999
+358,340135001968,School #810644345,70.04,4,AnyCounty,99999
+359,341758002940,School #402470448,90.98,1,AnyCounty,99999
+360,340003300303,School #1141098482,7.86,4,AnyCounty,99999
+361,341149003490,School #447621928,62.96,3,AnyCounty,99999
+362,341254000168,School #872305311,42.24,0,AnyCounty,99999
+363,340585001490,School #1910741884,58.4,4,AnyCounty,99999
+364,341269004922,School #1228613720,96.74,0,AnyCounty,99999
+365,341146002884,School #1269072509,55.52,4,AnyCounty,99999
+366,340894003916,School #1739406533,66.31,2,AnyCounty,99999
+367,341032001882,School #1720074054,4.5,2,AnyCounty,99999
+368,340282003272,School #2079837534,80.15,0,AnyCounty,99999
+369,341353005642,School #975638051,55.0,3,AnyCounty,99999
+370,341296005860,School #20808581,39.1,4,AnyCounty,99999
+371,341281001220,School #1437007358,31.84,2,AnyCounty,99999
+372,341314005618,School #1926289193,17.91,2,AnyCounty,99999
+373,341812003694,School #1862710233,94.47,1,AnyCounty,99999
+374,341122003466,School #427817595,50.07,4,AnyCounty,99999
+375,341815002696,School #551225534,60.06,2,AnyCounty,99999
+376,340078303345,School #727796988,11.8,3,AnyCounty,99999
+377,340459005510,School #1509196720,76.0,2,AnyCounty,99999
+378,341827001700,School #1545934898,85.09,0,AnyCounty,99999
+379,341584001890,School #573545073,30.45,0,AnyCounty,99999
+380,341254004840,School #1897818287,55.32,0,AnyCounty,99999
+381,341428005658,School #253406403,73.32,1,AnyCounty,99999
+382,340783002794,School #161633122,77.43,3,AnyCounty,99999
+383,340318002500,School #1921414992,54.4,4,AnyCounty,99999
+384,340423002062,School #1617842128,78.9,2,AnyCounty,99999
+385,341680001934,School #734516786,66.32,4,AnyCounty,99999
+386,340423002050,School #435125122,98.11,3,AnyCounty,99999
+387,341281001224,School #1523879159,71.96,4,AnyCounty,99999
+388,341146002888,School #1845650729,52.41,1,AnyCounty,99999
+389,341254004838,School #1773029046,46.41,3,AnyCounty,99999
+390,341680001910,School #526844617,94.21,2,AnyCounty,99999
+391,341209004684,School #1631287783,23.3,4,AnyCounty,99999
+392,340002300287,School #191823913,50.23,0,AnyCounty,99999
+393,340459005516,School #585214891,46.2,3,AnyCounty,99999
+394,341287001624,School #1569177726,19.87,2,AnyCounty,99999
+395,341269006072,School #2034033238,56.44,0,AnyCounty,99999
+396,341287001630,School #2010271953,74.25,1,AnyCounty,99999
+397,340894003325,School #46213008,26.4,0,AnyCounty,99999
+398,341227002412,School #1786281022,40.53,4,AnyCounty,99999
+399,341116004040,School #650063172,26.36,2,AnyCounty,99999
+400,340450003352,School #1445595692,77.94,4,AnyCounty,99999
+401,341806001696,School #2119590740,46.09,0,AnyCounty,99999
+402,341134002360,School #2114977736,57.92,4,AnyCounty,99999
+403,341629003238,School #972548385,12.73,4,AnyCounty,99999
+404,340144005796,School #621523534,59.65,3,AnyCounty,99999
+405,340074903184,School #2086151586,82.1,2,AnyCounty,99999
+406,340423002048,School #1171747529,94.81,0,AnyCounty,99999
+407,341320000202,School #203142592,82.94,4,AnyCounty,99999
+408,341314005616,School #2016059701,99.97,0,AnyCounty,99999
+409,340459002997,School #204171708,85.73,4,AnyCounty,99999
+410,341800001276,School #524010255,74.64,4,AnyCounty,99999
+411,341134002937,School #1143650729,49.75,1,AnyCounty,99999
+412,341680001948,School #638186488,91.56,1,AnyCounty,99999
+413,341122003472,School #1263251606,63.81,2,AnyCounty,99999
+414,341134002270,School #1886091088,5.0,4,AnyCounty,99999
+415,340654003102,School #702837242,13.99,3,AnyCounty,99999
+416,340183001986,School #202643696,9.67,2,AnyCounty,99999
+417,340783002832,School #749945209,50.23,3,AnyCounty,99999
+418,340768005965,School #67154914,90.66,0,AnyCounty,99999
+419,340978001862,School #710135421,97.67,2,AnyCounty,99999
+420,340894003908,School #1701125675,99.44,0,AnyCounty,99999
+421,341227006117,School #149859451,1.7,3,AnyCounty,99999
+422,341443001650,School #1531581938,96.75,2,AnyCounty,99999
+423,340074403139,School #898631909,4.12,0,AnyCounty,99999
+424,340549005198,School #1828048248,90.82,2,AnyCounty,99999
+425,341227002400,School #344190205,52.58,3,AnyCounty,99999
+426,340396001832,School #477349183,99.23,0,AnyCounty,99999
+427,341428005654,School #1929057761,69.62,1,AnyCounty,99999
+428,340240003221,School #400115749,28.15,1,AnyCounty,99999
+429,340459000071,School #503425013,66.59,1,AnyCounty,99999
+430,341479004706,School #1630181379,37.75,3,AnyCounty,99999
+431,340654003112,School #1129962595,3.34,0,AnyCounty,99999
+432,340459000207,School #985783855,49.62,2,AnyCounty,99999
+433,340783002802,School #1243844143,62.79,0,AnyCounty,99999
+434,341320000200,School #620989014,83.88,4,AnyCounty,99999
+435,340073003028,School #1116016653,76.04,3,AnyCounty,99999
+436,341314005630,School #456666941,66.11,3,AnyCounty,99999
+437,341680001930,School #1018639202,80.57,4,AnyCounty,99999
+438,341134002278,School #133444926,98.29,4,AnyCounty,99999
+439,341134002252,School #1333888085,80.13,4,AnyCounty,99999
+440,340822005981,School #1164480003,45.13,4,AnyCounty,99999
+441,340423002044,School #1064455698,10.6,4,AnyCounty,99999
+442,340002200285,School #127818034,22.8,2,AnyCounty,99999
+443,340783002830,School #576784861,70.25,2,AnyCounty,99999
+444,340423002060,School #443940425,48.87,2,AnyCounty,99999
+445,341812003722,School #1159872780,44.89,2,AnyCounty,99999
+446,341134002342,School #1227202372,26.53,1,AnyCounty,99999
+447,340007800487,School #2115163798,90.17,1,AnyCounty,99999
+448,340783002824,School #906904904,20.15,2,AnyCounty,99999
+449,341314005610,School #730892292,32.73,1,AnyCounty,99999
+450,340077703307,School #164772456,64.32,4,AnyCounty,99999
+451,340096000018,School #403414263,79.28,0,AnyCounty,99999
+452,341134002282,School #1031459277,78.65,0,AnyCounty,99999
+453,340588000064,School #1761608639,30.36,0,AnyCounty,99999
+454,340007700485,School #745546756,92.88,3,AnyCounty,99999
+455,340786003884,School #171027728,58.83,1,AnyCounty,99999
+456,341227002408,School #2008272430,61.09,0,AnyCounty,99999
+457,341824001294,School #1933696974,24.61,1,AnyCounty,99999
+458,340077103287,School #1465306879,6.67,0,AnyCounty,99999
+459,340783002816,School #1417223849,76.76,2,AnyCounty,99999
+460,341401001236,School #1543162934,73.66,0,AnyCounty,99999
+461,340822004640,School #1552859771,24.57,0,AnyCounty,99999
+462,340459005520,School #1767629015,10.53,0,AnyCounty,99999
+463,341272002612,School #2086568441,6.44,1,AnyCounty,99999
+464,340783002804,School #1588325949,20.92,2,AnyCounty,99999
+465,341134002356,School #501389941,80.88,3,AnyCounty,99999
+466,340008400575,School #1582382627,88.55,3,AnyCounty,99999
+467,341269004908,School #1740240838,28.22,3,AnyCounty,99999
+468,341314005614,School #1605994752,99.84,0,AnyCounty,99999
+469,341680003031,School #436815245,93.99,0,AnyCounty,99999
+470,341134002284,School #685485891,59.99,3,AnyCounty,99999
+471,340459002983,School #1423496139,0.46,1,AnyCounty,99999
+472,341254004852,School #1731944781,42.32,3,AnyCounty,99999
+473,341122003464,School #1188229026,90.12,4,AnyCounty,99999
+474,341800000411,School #1248631228,23.86,1,AnyCounty,99999
+475,341269004918,School #1171485770,28.92,4,AnyCounty,99999
+476,341122003379,School #684875867,3.36,3,AnyCounty,99999
+477,341269003382,School #413785057,12.83,4,AnyCounty,99999
+478,341314005620,School #1447851563,15.85,3,AnyCounty,99999
+479,340459005494,School #1201309672,84.83,1,AnyCounty,99999
+480,341134002232,School #857887570,75.43,1,AnyCounty,99999
+481,341134002318,School #666157531,17.12,1,AnyCounty,99999
+482,341800001282,School #201928564,32.06,0,AnyCounty,99999
+483,341314005612,School #1947091834,33.28,3,AnyCounty,99999
+484,341347004938,School #1495217426,61.39,1,AnyCounty,99999
+485,341134002266,School #943448798,50.16,1,AnyCounty,99999
+486,340822004638,School #773470402,16.56,2,AnyCounty,99999
+487,340423002052,School #1891754358,20.01,4,AnyCounty,99999
+488,341269004876,School #487568880,42.48,3,AnyCounty,99999
+489,341122003462,School #949320530,11.99,0,AnyCounty,99999
+490,340459005498,School #1171029579,66.44,1,AnyCounty,99999
+491,340768000089,School #643190004,2.17,2,AnyCounty,99999
+492,341314005628,School #40236488,0.98,2,AnyCounty,99999
+493,340210003360,School #70323210,52.04,0,AnyCounty,99999
+494,341629003234,School #1814147218,76.77,2,AnyCounty,99999
+495,341122003456,School #1658872081,21.11,0,AnyCounty,99999
+496,341134002352,School #1625703380,25.48,0,AnyCounty,99999
+497,341254004854,School #1946013250,65.09,3,AnyCounty,99999
+498,341227002406,School #366332938,4.76,0,AnyCounty,99999
+499,341629003218,School #175329547,75.52,1,AnyCounty,99999
+500,341269004920,School #1018604283,34.48,3,AnyCounty,99999
+501,341134002334,School #1380548943,43.75,2,AnyCounty,99999
+502,341653001894,School #1144541350,44.15,0,AnyCounty,99999
+503,340077903353,School #76853603,53.61,1,AnyCounty,99999
+504,341269004878,School #716335095,0.94,3,AnyCounty,99999
+505,340008000566,School #1998938723,84.47,3,AnyCounty,99999
+506,340075203186,School #1885961014,10.99,0,AnyCounty,99999
+507,340864001580,School #448406370,59.23,4,AnyCounty,99999
+508,341269000803,School #1210752151,62.18,1,AnyCounty,99999
+509,340076303247,School #1600745867,89.84,2,AnyCounty,99999
+510,341269005916,School #398267000,11.65,4,AnyCounty,99999
+511,340768002114,School #718323877,0.09,3,AnyCounty,99999
+512,340459005492,School #1328336512,81.24,0,AnyCounty,99999
+513,341254004850,School #1177066346,75.58,0,AnyCounty,99999
+514,340768002108,School #1962465887,9.45,0,AnyCounty,99999
+515,341134002302,School #2078133662,52.41,1,AnyCounty,99999
+516,340078203371,School #370482728,38.86,4,AnyCounty,99999
+517,340768002116,School #753831471,46.63,1,AnyCounty,99999
+518,341320000194,School #831590800,20.27,2,AnyCounty,99999
+519,340654003108,School #1469527732,84.62,0,AnyCounty,99999
+520,341134005976,School #136520002,87.56,2,AnyCounty,99999
+521,340096000032,School #1854540034,41.1,0,AnyCounty,99999
+522,341134003374,School #172888308,59.32,2,AnyCounty,99999
+523,341032001878,School #1788305777,43.36,0,AnyCounty,99999
+524,341629003216,School #1756104506,12.89,1,AnyCounty,99999
+525,341254004844,School #905994174,7.83,0,AnyCounty,99999
+526,340225001794,School #7537540,28.96,2,AnyCounty,99999
+527,340459003293,School #444997836,8.77,4,AnyCounty,99999
+528,340768002110,School #260789057,45.4,4,AnyCounty,99999
+529,341254003035,School #2084146363,3.99,2,AnyCounty,99999
+530,341269004900,School #1578475138,36.18,1,AnyCounty,99999
+531,340768002945,School #1669743231,60.34,2,AnyCounty,99999
+532,341800001274,School #337967686,16.51,3,AnyCounty,99999
+533,340783002808,School #626461367,80.32,0,AnyCounty,99999
+534,340264000793,School #715234391,75.06,4,AnyCounty,99999
+535,340075603185,School #1433223296,96.82,0,AnyCounty,99999
+536,341806001694,School #521238519,94.04,4,AnyCounty,99999
+537,341134002256,School #2109583625,83.29,4,AnyCounty,99999
+538,341164005264,School #515060885,25.16,2,AnyCounty,99999
+539,340264001368,School #1987845421,12.21,0,AnyCounty,99999
+540,341269004898,School #119369839,19.81,4,AnyCounty,99999
+541,340004100321,School #958955452,49.48,4,AnyCounty,99999
+542,341134003150,School #1842014039,17.68,0,AnyCounty,99999
+543,340096000026,School #1019794009,19.53,4,AnyCounty,99999
+544,341629003248,School #792352012,65.39,3,AnyCounty,99999
+545,340816004632,School #1302525080,29.42,3,AnyCounty,99999
+546,341032000061,School #815962450,20.13,4,AnyCounty,99999
+547,341314005622,School #841357230,71.16,2,AnyCounty,99999
+548,341116004042,School #181892057,28.71,0,AnyCounty,99999
+549,340225001786,School #668064877,35.16,2,AnyCounty,99999
+550,340264001374,School #1640341202,83.62,1,AnyCounty,99999
+551,341623004742,School #627944380,34.36,0,AnyCounty,99999
+552,341134002262,School #2136078458,59.59,0,AnyCounty,99999
+553,340654003110,School #962200509,61.54,2,AnyCounty,99999
+554,341116004048,School #1187145113,21.84,4,AnyCounty,99999
+555,341134002288,School #602169490,30.04,3,AnyCounty,99999
+556,341269003384,School #673863450,98.79,3,AnyCounty,99999
+557,341629003246,School #584975623,91.8,0,AnyCounty,99999
+558,340264001394,School #934583909,56.47,0,AnyCounty,99999
+559,341134002364,School #628369006,45.77,0,AnyCounty,99999
+560,341134002354,School #1487894280,51.18,2,AnyCounty,99999
+561,340264001366,School #563056276,80.51,1,AnyCounty,99999
+562,340459005526,School #1242202789,62.0,3,AnyCounty,99999
+563,341629003220,School #816824973,10.17,2,AnyCounty,99999
+564,340459005506,School #1278698056,90.5,4,AnyCounty,99999
+565,340348001810,School #208812546,39.42,3,AnyCounty,99999
+566,341134000091,School #163501319,9.63,0,AnyCounty,99999
+567,341134002304,School #244103036,71.61,0,AnyCounty,99999
+568,340864001578,School #1180593727,59.36,4,AnyCounty,99999
+569,341629003242,School #934110953,8.9,2,AnyCounty,99999
+570,341134002280,School #1013739933,57.71,0,AnyCounty,99999
+571,341269004896,School #1438592365,64.16,0,AnyCounty,99999
+572,340225001804,School #2087761167,35.31,1,AnyCounty,99999
+573,340783002838,School #1523930809,40.32,2,AnyCounty,99999
+574,341794001770,School #169786617,37.68,1,AnyCounty,99999
+575,340077503285,School #1695438503,65.83,4,AnyCounty,99999
+576,340225001790,School #262400818,89.93,0,AnyCounty,99999
+577,340768002947,School #1277039486,26.71,4,AnyCounty,99999
+578,341269004888,School #457386592,36.37,1,AnyCounty,99999
+579,340225001788,School #1357531801,34.75,2,AnyCounty,99999
+580,340264001408,School #279440464,25.55,0,AnyCounty,99999
+581,341269004884,School #1476043592,9.29,0,AnyCounty,99999
+582,341134005912,School #2140293415,11.37,0,AnyCounty,99999
+583,341122003460,School #349040585,27.55,3,AnyCounty,99999
+584,340783002798,School #1456144790,0.86,0,AnyCounty,99999
+585,340264001364,School #1909828259,86.95,2,AnyCounty,99999
+586,340225001800,School #200322223,58.75,4,AnyCounty,99999
+587,341455005094,School #382932740,69.87,4,AnyCounty,99999
+588,341269004872,School #1026085487,18.26,2,AnyCounty,99999
+589,340783002796,School #1936504315,36.02,1,AnyCounty,99999
+590,341629003236,School #47789753,38.95,4,AnyCounty,99999
+591,341032001872,School #1632555863,5.66,0,AnyCounty,99999
+592,340093000157,School #615174503,87.99,3,AnyCounty,99999
+593,341269004902,School #553156713,31.56,4,AnyCounty,99999
+594,341269004912,School #161682848,48.68,3,AnyCounty,99999
+595,340504000811,School #1211983554,81.62,2,AnyCounty,99999
+596,340096000020,School #2131525968,74.84,3,AnyCounty,99999
+597,341314005626,School #670713450,52.1,0,AnyCounty,99999
+598,341269004914,School #860750381,42.33,3,AnyCounty,99999
+599,340077203313,School #1116971471,9.78,2,AnyCounty,99999
+600,341269004880,School #563779334,93.62,3,AnyCounty,99999
+601,340264001406,School #2008983619,90.32,3,AnyCounty,99999
+602,341629003222,School #1806570439,84.96,1,AnyCounty,99999
+603,340264001354,School #771606134,27.62,1,AnyCounty,99999
+604,340096000022,School #1372672282,25.73,1,AnyCounty,99999
+605,340264006084,School #1951539411,24.0,4,AnyCounty,99999
+606,340264001400,School #18429453,23.97,3,AnyCounty,99999
+607,341629003123,School #1830412604,26.17,1,AnyCounty,99999
+608,341134002234,School #622425926,79.29,4,AnyCounty,99999
+609,340264003065,School #659293104,42.01,0,AnyCounty,99999
+610,341629003226,School #981384821,38.96,1,AnyCounty,99999
+611,341269004892,School #515718427,43.98,2,AnyCounty,99999
+612,340093003740,School #820951150,75.71,0,AnyCounty,99999
+613,340453000074,School #1882861340,27.05,0,AnyCounty,99999
+614,340093003301,School #1550227104,11.59,1,AnyCounty,99999
+615,341269003369,School #1621076795,59.34,0,AnyCounty,99999
