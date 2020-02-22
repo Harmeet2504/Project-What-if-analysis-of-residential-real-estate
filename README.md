@@ -2,11 +2,11 @@
 The aim of the project is to examine the impact of 4 metrices (school rating, crime, mass transit, population) affecting valuation of  residential real estate of NJ.
 
 # Data Source
--School data: [Schooldigger](https://www.schooldigger.com/)
--Crime data: NJSP.Gov
--Real-estate data: newjerseymls.com
--Transit: NJ Transit
--Population: United States Census Bureau
+* School data: [Schooldigger](https://www.schooldigger.com/)
+* Crime data: NJSP.Gov
+* Real-estate data: newjerseymls.com
+* Transit: NJ Transit
+* Population: United States Census Bureau
 
 # Methodology
 ![method](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/Screen%20Shot%202020-02-22%20at%208.26.24%20AM.png)
