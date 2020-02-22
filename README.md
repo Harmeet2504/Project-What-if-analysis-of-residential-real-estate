@@ -2,7 +2,7 @@
 The aim of the project is to examine the impact of 4 metrices (school rating, crime, mass transit, population) affecting valuation of  residential real estate of NJ.
 
 # Data Source
-School data: ![schooldigger.com] (https://www.schooldigger.com/)
+School data: [Schooldigger] (https://www.schooldigger.com/)
 Crime data: NJSP.Gov
 Real-estate data: newjerseymls.com
 Transit: NJ Transit
