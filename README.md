@@ -3,7 +3,7 @@ The aim of the project is to examine the impact of 4 metrices (school rating, cr
 
 # Data Source
 * School data: [Schooldigger](https://www.schooldigger.com/)
-* Crime data: NJSP.Gov
+* Crime data: [NJ State Police](https://www.njsp.org/)
 * Real-estate data: newjerseymls.com
 * Transit: NJ Transit
 * Population: United States Census Bureau
