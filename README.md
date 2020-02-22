@@ -9,7 +9,7 @@ NJ Transit
 United States Census Bureau
 
 # Methodology
-[https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/Screen%20Shot%202020-02-22%20at%208.26.24%20AM.png]
+![method](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/Screen%20Shot%202020-02-22%20at%208.26.24%20AM.pn)
 
 For this data were retrieved from different sources: API calls were made to retrieve school data from schooldigger.com, crime records from NJSP.Gov, rresidential real estate data from newjerseymls.com, mass transit information from NJ Transit (API) and population of counties from United States Census Bureau.
 
