@@ -15,9 +15,16 @@ For this data were retrieved from different sources: API calls were made to retr
 
 Isolated data relevant for the project from each data source, cleaned and transformed each dataset. A master dataframe was created by merging all the data using pandas. Correlation between the metics were measured in terms of Pierson's Coefficient of correlation. Trend/ relationship was examined by generating regression equation from scatter plots. Percentage of population versus crime of each counties were compared by generating donut plots(variant of pie plot). Bins were created to designate areas with high , moderate, low crime rates.  School data per county was analysed by generating stacked bar plots. NJ transit map was generated using google map and markers were used for indicating each station.
 
+Following are a few images from the analyses:
+1.School versus residential price
+
 ![School Versus Residential Price](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/input-code-output-files/output_files/Figures/Average%20School%20Score%20Versus%20Average%20Resident%20Price.png)
 
+2.Crime per county
 ![Crime per county](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/input-code-output-files/output_files/Figures/Percent_Crime_Per_County.png)
+
+3.Residntial price in best counties 
+![](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/input-code-output-files/output_files/Figures/Residntial_price_in_best_counties_of_NJ.png)
 
 # Findings
 * Counties with good schools have high residential valuation.
