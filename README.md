@@ -1,7 +1,10 @@
 # What-if Analysis of Residential Real Estate in New Jersey
 
 ## Summary
-Real estate valuation depends on a number of factors. More often than not, an individual assesses four important factors while investing on a residential real estate. These are: school rating, crime, mass transit and population. The aim of the project is to examine the impact of these 4 metrices affecting valuation of residential real estate of New Jersey and thereby identify counties that are best to live.
+Real estate valuation depends on a number of factors. More often than not, an individual assesses four important factors while investing on a residential real estate. These are: school rating, crime, mass transit and population. The aim of the project is to examine the impact of these 4 metrices affecting valuation of residential real estate of New Jersey and thereby identify counties that are best to live. 
+
+### Note
+Since, real estate data could not be obtained for South of New Jersey, hence the analyses is restricted to 11 counties. As per a report every household in NJ has an average of 2.5 members per family, hence analysis was limited to residences with 3 bedrooms.
 
 ## Team members
 Harmeet Kaur, Nitin Sharma, Deborah Ofsievich, Jean Pino 
@@ -14,7 +17,7 @@ Harmeet Kaur, Nitin Sharma, Deborah Ofsievich, Jean Pino
 * Population: [United States Census Bureau](http://www.census.gov/)
 
 ## Methodology
-For this data were retrieved from different sources: API calls were made to retrieve school data from schooldigger.com, crime records from NJSP.Gov, residential real estate data from newjerseymls.com, mass transit information from NJ Transit (API) and population of counties from United States Census Bureau. For the analysis, data were restricted to 3 bedrooms as per a report that suggests that in NJ there is an average of 2.5 members per household.Isolated data relevant for the project from each data source, cleaned and transformed each dataset. A master dataframe was created by merging all the data using pandas.
+For this data were retrieved from different sources: API calls were made to retrieve school data from schooldigger.com, crime records from NJSP.Gov, residential real estate data from newjerseymls.com, mass transit information from NJ Transit (API) and population of counties from United States Census Bureau. Isolated data relevant for the project from each data source, cleaned and transformed each dataset. A master dataframe was created by merging all the data using pandas.
 
 ![method](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/Screen%20Shot%202020-02-22%20at%208.26.24%20AM.png)
 
