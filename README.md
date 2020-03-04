@@ -9,6 +9,14 @@ Since, real estate data could not be obtained for South of New Jersey, hence the
 ## Team members
 Harmeet Kaur, Nitin Sharma, Deborah Ofsievich, Jean Pino 
 
+## Installation packages and libraries used
+Jupyter notebook, Python, Pandas, Matplotlib, NumPy, SciPy
+
+## To run  
+* To get a copy of the project up and running on your local machine for development and testing purposes, clone the repo, launch jupyter notebook and run the ipynb files 
+* API keys will have to be obtained for google map and schooldigger
+
+
 ## Data Source
 * School data: [Schooldigger](https://www.schooldigger.com/)
 * Crime data: [NJ State Police](https://www.njsp.org/)
@@ -52,11 +60,6 @@ Following are a few images from the analyses:
 * One Station was tagged to multiple Stations. Had data for Light rails and path. Data was transfor,ed and cleaned to remove ambiguity
 * No real estate data could be retrieved for south of New Jersey. Hence, the study is limited to observations from North Jersey.
 
-## Installation packages and libraries used
-Jupyter notebook, Python, Pandas, Matplotlib, NumPy, SciPy
-
-## To run  
-API keys will have to be obtained for google map and schooldigger
 
 
 
