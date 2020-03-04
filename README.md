@@ -1,7 +1,7 @@
 # What-if Analysis of Residential Real Estate in New Jersey
 
 ## Summary
-The aim of the project is to examine the impact of 4 metrices viz. school rating, crime, mass transit and population affecting valuation of  residential real estate of New Jersey.
+Real estate valuation depends on a number of factors. More often than not, an individual assesses four important factors while investing on a residential real estate. These are: school rating, crime, mass transit and population. The aim of the project is to examine the impact of these 4 metrices affecting valuation of residential real estate of New Jersey and thereby identify counties that are best to live.
 
 ## Team members
 Harmeet Kaur, Nitin Sharma, Deborah Ofsievich, Jean Pino 
