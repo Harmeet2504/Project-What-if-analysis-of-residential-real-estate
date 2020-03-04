@@ -3,6 +3,9 @@
 ## Summary
 The aim of the project is to examine the impact of 4 metrices viz. school rating, crime, mass transit and population affecting valuation of  residential real estate of New Jersey.
 
+## Team members
+Harmeet Kaur, Nitin Sharma, Deborah Ofsievich, Jean Pino 
+
 ## Data Source
 * School data: [Schooldigger](https://www.schooldigger.com/)
 * Crime data: [NJ State Police](https://www.njsp.org/)
@@ -11,19 +14,18 @@ The aim of the project is to examine the impact of 4 metrices viz. school rating
 * Population: [United States Census Bureau](http://www.census.gov/)
 
 ## Methodology
+For this data were retrieved from different sources: API calls were made to retrieve school data from schooldigger.com, crime records from NJSP.Gov, residential real estate data from newjerseymls.com, mass transit information from NJ Transit (API) and population of counties from United States Census Bureau. For the analysis, data were restricted to 3 bedrooms as per a report that suggests that in NJ there is an average of 2.5 members per household.Isolated data relevant for the project from each data source, cleaned and transformed each dataset. A master dataframe was created by merging all the data using pandas.
+
 ![method](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/Screen%20Shot%202020-02-22%20at%208.26.24%20AM.png)
 
-For this data were retrieved from different sources: API calls were made to retrieve school data from schooldigger.com, crime records from NJSP.Gov, residential real estate data from newjerseymls.com, mass transit information from NJ Transit (API) and population of counties from United States Census Bureau. For the analysis, data were restricted to 3 bedrooms as per a report that suggests that in NJ there is an average of 2.5 members per household.
-
-Isolated data relevant for the project from each data source, cleaned and transformed each dataset. A master dataframe was created by merging all the data using pandas. Correlation between the metics were measured in terms of Pierson's Coefficient of correlation. Trend/ relationship was examined by generating regression equation from scatter plots. Percentage of population versus crime of each counties were compared by generating donut plots(variant of pie plot). Bins were created to designate areas with high , moderate, low crime rates.  School data per county was analysed by generating stacked bar plots. NJ transit map was generated using google map and markers were used for indicating each station.
-
+Correlation between the metics were measured in terms of Pierson's Coefficient of correlation. Trend/ relationship was examined by generating regression equation from scatter plots. Percentage of population versus crime of each counties were compared by generating donut plots(variant of pie plot). Bins were created to designate areas with high , moderate, low crime rates.  School data per county was analysed by generating stacked bar plots. NJ transit map was generated using google map and markers were used for indicating each station.
 Following are a few images from the analyses:
 
 * School versus residential price
 
 ![School Versus Residential Price](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/input-code-output-files/output_files/Figures/Average%20School%20Score%20Versus%20Average%20Resident%20Price.png)
 
-* Crime per county
+* Percent crime per county
 
 ![Crime per county](https://github.com/Harmeet2504/Project-What-if-analysis-of-residential-real-estate/blob/master/input-code-output-files/output_files/Figures/Percent_Crime_Per_County.png)
 
